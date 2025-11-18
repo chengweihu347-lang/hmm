@@ -1,0 +1,44 @@
+{
+  "video_info": {
+    "filename": "jg15.MP4",
+    "fps": 59,
+    "width": 1920,
+    "height": 1080,
+    "total_frames": 518
+  },
+  "frames": [
+    {
+      "frame_number": 1,
+      "timestamp": 0.017,
+      "joints": {
+        "shoulder_angle": 136.84,
+        "elbow_angle": 151.05,
+        "hip_angle": 173.81,
+        "knee_angle": 177.7,
+        "ankle_angle": 163.82
+      }
+    },
+    {
+      "frame_number": 2,
+      "timestamp": 0.034,
+      "joints": {
+        "shoulder_angle": 140.66,
+        "elbow_angle": 169.01,
+        "hip_angle": 174.01,
+        "knee_angle": 177.62,
+        "ankle_angle": 164.59
+      }
+    },
+    {
+      "frame_number": 3,
+      "timestamp": 0.051,
+      "joints": {
+        "shoulder_angle": 152.43,
+        "elbow_angle": 165.32,
+        "hip_angle": 174.64,
+        "knee_angle": 178.33,
+        "ankle_angle": 165.88
+      }
+    }
+  ]
+}

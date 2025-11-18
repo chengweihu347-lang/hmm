@@ -1,0 +1,4334 @@
+{
+  "video_info": {
+    "filename": "stand27.MP4",
+    "fps": 59,
+    "width": 1920,
+    "height": 1080,
+    "total_frames": 393
+  },
+  "frames": [
+    {
+      "frame_number": 1,
+      "timestamp": 0.017,
+      "joints": {
+        "shoulder_angle": 166.58,
+        "elbow_angle": 153.85,
+        "hip_angle": 170.69,
+        "knee_angle": 177.28,
+        "ankle_angle": 160.36
+      }
+    },
+    {
+      "frame_number": 2,
+      "timestamp": 0.034,
+      "joints": {
+        "shoulder_angle": 165.08,
+        "elbow_angle": 155.79,
+        "hip_angle": 172.67,
+        "knee_angle": 175.56,
+        "ankle_angle": 166.9
+      }
+    },
+    {
+      "frame_number": 3,
+      "timestamp": 0.051,
+      "joints": {
+        "shoulder_angle": 164.43,
+        "elbow_angle": 156.37,
+        "hip_angle": 173.73,
+        "knee_angle": 175.47,
+        "ankle_angle": 164.53
+      }
+    },
+    {
+      "frame_number": 4,
+      "timestamp": 0.068,
+      "joints": {
+        "shoulder_angle": 166.34,
+        "elbow_angle": 154.29,
+        "hip_angle": 174.88,
+        "knee_angle": 175.63,
+        "ankle_angle": 166.22
+      }
+    },
+    {
+      "frame_number": 5,
+      "timestamp": 0.085,
+      "joints": {
+        "shoulder_angle": 167.5,
+        "elbow_angle": 154.26,
+        "hip_angle": 175.38,
+        "knee_angle": 175.58,
+        "ankle_angle": 166.7
+      }
+    },
+    {
+      "frame_number": 6,
+      "timestamp": 0.102,
+      "joints": {
+        "shoulder_angle": 168.13,
+        "elbow_angle": 155.4,
+        "hip_angle": 175.75,
+        "knee_angle": 175.83,
+        "ankle_angle": 166.3
+      }
+    },
+    {
+      "frame_number": 7,
+      "timestamp": 0.119,
+      "joints": {
+        "shoulder_angle": 170.4,
+        "elbow_angle": 156.18,
+        "hip_angle": 175.91,
+        "knee_angle": 176.52,
+        "ankle_angle": 164.16
+      }
+    },
+    {
+      "frame_number": 8,
+      "timestamp": 0.136,
+      "joints": {
+        "shoulder_angle": 171.41,
+        "elbow_angle": 158.14,
+        "hip_angle": 176.2,
+        "knee_angle": 176.7,
+        "ankle_angle": 162.76
+      }
+    },
+    {
+      "frame_number": 9,
+      "timestamp": 0.153,
+      "joints": {
+        "shoulder_angle": 174.16,
+        "elbow_angle": 160.27,
+        "hip_angle": 176.3,
+        "knee_angle": 177.36,
+        "ankle_angle": 163.2
+      }
+    },
+    {
+      "frame_number": 10,
+      "timestamp": 0.169,
+      "joints": {
+        "shoulder_angle": 174.32,
+        "elbow_angle": 160.83,
+        "hip_angle": 176.28,
+        "knee_angle": 178.19,
+        "ankle_angle": 163.26
+      }
+    },
+    {
+      "frame_number": 11,
+      "timestamp": 0.186,
+      "joints": {
+        "shoulder_angle": 173.9,
+        "elbow_angle": 160.81,
+        "hip_angle": 175.92,
+        "knee_angle": 178.53,
+        "ankle_angle": 162.45
+      }
+    },
+    {
+      "frame_number": 12,
+      "timestamp": 0.203,
+      "joints": {
+        "shoulder_angle": 173.46,
+        "elbow_angle": 158.76,
+        "hip_angle": 175.39,
+        "knee_angle": 179.44,
+        "ankle_angle": 162.8
+      }
+    },
+    {
+      "frame_number": 13,
+      "timestamp": 0.22,
+      "joints": {
+        "shoulder_angle": 174.7,
+        "elbow_angle": 159.09,
+        "hip_angle": 174.67,
+        "knee_angle": 179.33,
+        "ankle_angle": 162.56
+      }
+    },
+    {
+      "frame_number": 14,
+      "timestamp": 0.237,
+      "joints": {
+        "shoulder_angle": 174.17,
+        "elbow_angle": 159.84,
+        "hip_angle": 174.33,
+        "knee_angle": 178.98,
+        "ankle_angle": 162.28
+      }
+    },
+    {
+      "frame_number": 15,
+      "timestamp": 0.254,
+      "joints": {
+        "shoulder_angle": 167.84,
+        "elbow_angle": 159.24,
+        "hip_angle": 173.75,
+        "knee_angle": 179.05,
+        "ankle_angle": 163.52
+      }
+    },
+    {
+      "frame_number": 16,
+      "timestamp": 0.271,
+      "joints": {
+        "shoulder_angle": 162.71,
+        "elbow_angle": 158.98,
+        "hip_angle": 173.24,
+        "knee_angle": 179.02,
+        "ankle_angle": 162.75
+      }
+    },
+    {
+      "frame_number": 17,
+      "timestamp": 0.288,
+      "joints": {
+        "shoulder_angle": 162.14,
+        "elbow_angle": 158.28,
+        "hip_angle": 172.9,
+        "knee_angle": 179.14,
+        "ankle_angle": 163.13
+      }
+    },
+    {
+      "frame_number": 18,
+      "timestamp": 0.305,
+      "joints": {
+        "shoulder_angle": 159.05,
+        "elbow_angle": 157.22,
+        "hip_angle": 171.71,
+        "knee_angle": 178.67,
+        "ankle_angle": 163.0
+      }
+    },
+    {
+      "frame_number": 19,
+      "timestamp": 0.322,
+      "joints": {
+        "shoulder_angle": 157.33,
+        "elbow_angle": 156.21,
+        "hip_angle": 171.2,
+        "knee_angle": 178.56,
+        "ankle_angle": 162.79
+      }
+    },
+    {
+      "frame_number": 20,
+      "timestamp": 0.339,
+      "joints": {
+        "shoulder_angle": 155.02,
+        "elbow_angle": 154.88,
+        "hip_angle": 170.77,
+        "knee_angle": 178.7,
+        "ankle_angle": 161.53
+      }
+    },
+    {
+      "frame_number": 21,
+      "timestamp": 0.356,
+      "joints": {
+        "shoulder_angle": 152.72,
+        "elbow_angle": 151.92,
+        "hip_angle": 170.51,
+        "knee_angle": 178.71,
+        "ankle_angle": 161.69
+      }
+    },
+    {
+      "frame_number": 22,
+      "timestamp": 0.373,
+      "joints": {
+        "shoulder_angle": 151.57,
+        "elbow_angle": 148.99,
+        "hip_angle": 170.6,
+        "knee_angle": 178.8,
+        "ankle_angle": 163.2
+      }
+    },
+    {
+      "frame_number": 23,
+      "timestamp": 0.39,
+      "joints": {
+        "shoulder_angle": 150.2,
+        "elbow_angle": 147.77,
+        "hip_angle": 170.12,
+        "knee_angle": 179.09,
+        "ankle_angle": 163.89
+      }
+    },
+    {
+      "frame_number": 24,
+      "timestamp": 0.407,
+      "joints": {
+        "shoulder_angle": 152.03,
+        "elbow_angle": 149.11,
+        "hip_angle": 169.99,
+        "knee_angle": 179.6,
+        "ankle_angle": 164.39
+      }
+    },
+    {
+      "frame_number": 25,
+      "timestamp": 0.424,
+      "joints": {
+        "shoulder_angle": 153.32,
+        "elbow_angle": 149.31,
+        "hip_angle": 169.65,
+        "knee_angle": 179.5,
+        "ankle_angle": 163.72
+      }
+    },
+    {
+      "frame_number": 26,
+      "timestamp": 0.441,
+      "joints": {
+        "shoulder_angle": 152.91,
+        "elbow_angle": 147.5,
+        "hip_angle": 169.22,
+        "knee_angle": 179.22,
+        "ankle_angle": 163.7
+      }
+    },
+    {
+      "frame_number": 27,
+      "timestamp": 0.458,
+      "joints": {
+        "shoulder_angle": 154.86,
+        "elbow_angle": 150.52,
+        "hip_angle": 168.89,
+        "knee_angle": 179.22,
+        "ankle_angle": 163.77
+      }
+    },
+    {
+      "frame_number": 28,
+      "timestamp": 0.475,
+      "joints": {
+        "shoulder_angle": 157.14,
+        "elbow_angle": 153.16,
+        "hip_angle": 168.25,
+        "knee_angle": 178.99,
+        "ankle_angle": 163.22
+      }
+    },
+    {
+      "frame_number": 29,
+      "timestamp": 0.492,
+      "joints": {
+        "shoulder_angle": 160.61,
+        "elbow_angle": 154.8,
+        "hip_angle": 168.13,
+        "knee_angle": 179.16,
+        "ankle_angle": 162.6
+      }
+    },
+    {
+      "frame_number": 30,
+      "timestamp": 0.508,
+      "joints": {
+        "shoulder_angle": 163.41,
+        "elbow_angle": 156.62,
+        "hip_angle": 167.89,
+        "knee_angle": 179.26,
+        "ankle_angle": 162.96
+      }
+    },
+    {
+      "frame_number": 31,
+      "timestamp": 0.525,
+      "joints": {
+        "shoulder_angle": 171.06,
+        "elbow_angle": 160.19,
+        "hip_angle": 167.93,
+        "knee_angle": 179.12,
+        "ankle_angle": 162.53
+      }
+    },
+    {
+      "frame_number": 32,
+      "timestamp": 0.542,
+      "joints": {
+        "shoulder_angle": 172.6,
+        "elbow_angle": 161.71,
+        "hip_angle": 168.07,
+        "knee_angle": 178.68,
+        "ankle_angle": 162.63
+      }
+    },
+    {
+      "frame_number": 33,
+      "timestamp": 0.559,
+      "joints": {
+        "shoulder_angle": 176.41,
+        "elbow_angle": 170.24,
+        "hip_angle": 167.93,
+        "knee_angle": 177.54,
+        "ankle_angle": 161.84
+      }
+    },
+    {
+      "frame_number": 34,
+      "timestamp": 0.576,
+      "joints": {
+        "shoulder_angle": 173.13,
+        "elbow_angle": 173.87,
+        "hip_angle": 167.44,
+        "knee_angle": 176.04,
+        "ankle_angle": 161.63
+      }
+    },
+    {
+      "frame_number": 35,
+      "timestamp": 0.593,
+      "joints": {
+        "shoulder_angle": 171.52,
+        "elbow_angle": 169.77,
+        "hip_angle": 167.11,
+        "knee_angle": 175.74,
+        "ankle_angle": 161.27
+      }
+    },
+    {
+      "frame_number": 36,
+      "timestamp": 0.61,
+      "joints": {
+        "shoulder_angle": 171.2,
+        "elbow_angle": 172.6,
+        "hip_angle": 167.89,
+        "knee_angle": 176.09,
+        "ankle_angle": 161.77
+      }
+    },
+    {
+      "frame_number": 37,
+      "timestamp": 0.627,
+      "joints": {
+        "shoulder_angle": 172.05,
+        "elbow_angle": 173.84,
+        "hip_angle": 167.4,
+        "knee_angle": 174.51,
+        "ankle_angle": 164.24
+      }
+    },
+    {
+      "frame_number": 38,
+      "timestamp": 0.644,
+      "joints": {
+        "shoulder_angle": 172.41,
+        "elbow_angle": 173.19,
+        "hip_angle": 167.11,
+        "knee_angle": 173.96,
+        "ankle_angle": 164.86
+      }
+    },
+    {
+      "frame_number": 39,
+      "timestamp": 0.661,
+      "joints": {
+        "shoulder_angle": 167.39,
+        "elbow_angle": 172.03,
+        "hip_angle": 167.51,
+        "knee_angle": 174.59,
+        "ankle_angle": 165.52
+      }
+    },
+    {
+      "frame_number": 40,
+      "timestamp": 0.678,
+      "joints": {
+        "shoulder_angle": 163.88,
+        "elbow_angle": 172.57,
+        "hip_angle": 168.25,
+        "knee_angle": 174.69,
+        "ankle_angle": 165.57
+      }
+    },
+    {
+      "frame_number": 41,
+      "timestamp": 0.695,
+      "joints": {
+        "shoulder_angle": 161.83,
+        "elbow_angle": 172.93,
+        "hip_angle": 169.18,
+        "knee_angle": 175.24,
+        "ankle_angle": 166.14
+      }
+    },
+    {
+      "frame_number": 42,
+      "timestamp": 0.712,
+      "joints": {
+        "shoulder_angle": 158.35,
+        "elbow_angle": 166.23,
+        "hip_angle": 169.73,
+        "knee_angle": 174.93,
+        "ankle_angle": 165.66
+      }
+    },
+    {
+      "frame_number": 43,
+      "timestamp": 0.729,
+      "joints": {
+        "shoulder_angle": 151.48,
+        "elbow_angle": 164.47,
+        "hip_angle": 171.1,
+        "knee_angle": 175.46,
+        "ankle_angle": 164.84
+      }
+    },
+    {
+      "frame_number": 44,
+      "timestamp": 0.746,
+      "joints": {
+        "shoulder_angle": 145.55,
+        "elbow_angle": 162.76,
+        "hip_angle": 172.55,
+        "knee_angle": 176.0,
+        "ankle_angle": 165.57
+      }
+    },
+    {
+      "frame_number": 45,
+      "timestamp": 0.763,
+      "joints": {
+        "shoulder_angle": 138.62,
+        "elbow_angle": 151.7,
+        "hip_angle": 174.02,
+        "knee_angle": 176.77,
+        "ankle_angle": 167.07
+      }
+    },
+    {
+      "frame_number": 46,
+      "timestamp": 0.78,
+      "joints": {
+        "shoulder_angle": 128.44,
+        "elbow_angle": 147.55,
+        "hip_angle": 175.08,
+        "knee_angle": 177.05,
+        "ankle_angle": 167.1
+      }
+    },
+    {
+      "frame_number": 47,
+      "timestamp": 0.797,
+      "joints": {
+        "shoulder_angle": 111.67,
+        "elbow_angle": 154.52,
+        "hip_angle": 176.32,
+        "knee_angle": 177.51,
+        "ankle_angle": 166.5
+      }
+    },
+    {
+      "frame_number": 48,
+      "timestamp": 0.814,
+      "joints": {
+        "shoulder_angle": 131.22,
+        "elbow_angle": 147.33,
+        "hip_angle": 177.45,
+        "knee_angle": 178.38,
+        "ankle_angle": 167.91
+      }
+    },
+    {
+      "frame_number": 49,
+      "timestamp": 0.831,
+      "joints": {
+        "shoulder_angle": 122.27,
+        "elbow_angle": 158.31,
+        "hip_angle": 178.19,
+        "knee_angle": 178.32,
+        "ankle_angle": 167.85
+      }
+    },
+    {
+      "frame_number": 50,
+      "timestamp": 0.847,
+      "joints": {
+        "shoulder_angle": 120.22,
+        "elbow_angle": 158.87,
+        "hip_angle": 178.3,
+        "knee_angle": 178.43,
+        "ankle_angle": 166.78
+      }
+    },
+    {
+      "frame_number": 51,
+      "timestamp": 0.864,
+      "joints": {
+        "shoulder_angle": 115.36,
+        "elbow_angle": 163.47,
+        "hip_angle": 177.11,
+        "knee_angle": 178.68,
+        "ankle_angle": 167.06
+      }
+    },
+    {
+      "frame_number": 52,
+      "timestamp": 0.881,
+      "joints": {
+        "shoulder_angle": 49.58,
+        "elbow_angle": 157.6,
+        "hip_angle": 176.93,
+        "knee_angle": 178.56,
+        "ankle_angle": 167.67
+      }
+    },
+    {
+      "frame_number": 53,
+      "timestamp": 0.898,
+      "joints": {
+        "shoulder_angle": 51.18,
+        "elbow_angle": 143.79,
+        "hip_angle": 175.4,
+        "knee_angle": 178.72,
+        "ankle_angle": 166.25
+      }
+    },
+    {
+      "frame_number": 54,
+      "timestamp": 0.915,
+      "joints": {
+        "shoulder_angle": 89.1,
+        "elbow_angle": 86.73,
+        "hip_angle": 174.26,
+        "knee_angle": 177.83,
+        "ankle_angle": 165.17
+      }
+    },
+    {
+      "frame_number": 55,
+      "timestamp": 0.932,
+      "joints": {
+        "shoulder_angle": 100.96,
+        "elbow_angle": 152.31,
+        "hip_angle": 173.97,
+        "knee_angle": 177.37,
+        "ankle_angle": 161.58
+      }
+    },
+    {
+      "frame_number": 56,
+      "timestamp": 0.949,
+      "joints": {
+        "shoulder_angle": 24.39,
+        "elbow_angle": 93.38,
+        "hip_angle": 173.92,
+        "knee_angle": 178.09,
+        "ankle_angle": 164.18
+      }
+    },
+    {
+      "frame_number": 57,
+      "timestamp": 0.966,
+      "joints": {
+        "shoulder_angle": 99.04,
+        "elbow_angle": 161.86,
+        "hip_angle": 174.34,
+        "knee_angle": 179.16,
+        "ankle_angle": 163.14
+      }
+    },
+    {
+      "frame_number": 58,
+      "timestamp": 0.983,
+      "joints": {
+        "shoulder_angle": 17.46,
+        "elbow_angle": 152.27,
+        "hip_angle": 174.92,
+        "knee_angle": 179.35,
+        "ankle_angle": 165.18
+      }
+    },
+    {
+      "frame_number": 59,
+      "timestamp": 1.0,
+      "joints": {
+        "shoulder_angle": 11.11,
+        "elbow_angle": 128.91,
+        "hip_angle": 176.33,
+        "knee_angle": 179.54,
+        "ankle_angle": 160.67
+      }
+    },
+    {
+      "frame_number": 60,
+      "timestamp": 1.017,
+      "joints": {
+        "shoulder_angle": 56.77,
+        "elbow_angle": 119.56,
+        "hip_angle": 177.57,
+        "knee_angle": 178.49,
+        "ankle_angle": 163.25
+      }
+    },
+    {
+      "frame_number": 61,
+      "timestamp": 1.034,
+      "joints": {
+        "shoulder_angle": 89.74,
+        "elbow_angle": 135.92,
+        "hip_angle": 177.38,
+        "knee_angle": 177.49,
+        "ankle_angle": 162.78
+      }
+    },
+    {
+      "frame_number": 62,
+      "timestamp": 1.051,
+      "joints": {
+        "shoulder_angle": 88.15,
+        "elbow_angle": 124.67,
+        "hip_angle": 177.62,
+        "knee_angle": 177.74,
+        "ankle_angle": 164.4
+      }
+    },
+    {
+      "frame_number": 63,
+      "timestamp": 1.068,
+      "joints": {
+        "shoulder_angle": 98.32,
+        "elbow_angle": 168.56,
+        "hip_angle": 176.53,
+        "knee_angle": 179.12,
+        "ankle_angle": 167.35
+      }
+    },
+    {
+      "frame_number": 64,
+      "timestamp": 1.085,
+      "joints": {
+        "shoulder_angle": 90.51,
+        "elbow_angle": 172.88,
+        "hip_angle": 176.7,
+        "knee_angle": 177.41,
+        "ankle_angle": 162.33
+      }
+    },
+    {
+      "frame_number": 65,
+      "timestamp": 1.102,
+      "joints": {
+        "shoulder_angle": 92.41,
+        "elbow_angle": 160.32,
+        "hip_angle": 177.08,
+        "knee_angle": 177.09,
+        "ankle_angle": 161.33
+      }
+    },
+    {
+      "frame_number": 66,
+      "timestamp": 1.119,
+      "joints": {
+        "shoulder_angle": 92.03,
+        "elbow_angle": 166.14,
+        "hip_angle": 177.2,
+        "knee_angle": 176.64,
+        "ankle_angle": 159.81
+      }
+    },
+    {
+      "frame_number": 67,
+      "timestamp": 1.136,
+      "joints": {
+        "shoulder_angle": 91.32,
+        "elbow_angle": 171.62,
+        "hip_angle": 177.38,
+        "knee_angle": 176.54,
+        "ankle_angle": 160.08
+      }
+    },
+    {
+      "frame_number": 68,
+      "timestamp": 1.153,
+      "joints": {
+        "shoulder_angle": 91.71,
+        "elbow_angle": 173.44,
+        "hip_angle": 177.44,
+        "knee_angle": 176.94,
+        "ankle_angle": 161.78
+      }
+    },
+    {
+      "frame_number": 69,
+      "timestamp": 1.169,
+      "joints": {
+        "shoulder_angle": 92.28,
+        "elbow_angle": 172.63,
+        "hip_angle": 177.4,
+        "knee_angle": 177.0,
+        "ankle_angle": 162.6
+      }
+    },
+    {
+      "frame_number": 70,
+      "timestamp": 1.186,
+      "joints": {
+        "shoulder_angle": 93.99,
+        "elbow_angle": 172.37,
+        "hip_angle": 177.19,
+        "knee_angle": 177.03,
+        "ankle_angle": 163.29
+      }
+    },
+    {
+      "frame_number": 71,
+      "timestamp": 1.203,
+      "joints": {
+        "shoulder_angle": 94.42,
+        "elbow_angle": 172.26,
+        "hip_angle": 177.14,
+        "knee_angle": 176.9,
+        "ankle_angle": 162.62
+      }
+    },
+    {
+      "frame_number": 72,
+      "timestamp": 1.22,
+      "joints": {
+        "shoulder_angle": 94.14,
+        "elbow_angle": 173.01,
+        "hip_angle": 177.08,
+        "knee_angle": 176.65,
+        "ankle_angle": 163.81
+      }
+    },
+    {
+      "frame_number": 73,
+      "timestamp": 1.237,
+      "joints": {
+        "shoulder_angle": 93.86,
+        "elbow_angle": 174.54,
+        "hip_angle": 177.19,
+        "knee_angle": 176.38,
+        "ankle_angle": 162.74
+      }
+    },
+    {
+      "frame_number": 74,
+      "timestamp": 1.254,
+      "joints": {
+        "shoulder_angle": 93.4,
+        "elbow_angle": 174.06,
+        "hip_angle": 177.07,
+        "knee_angle": 176.36,
+        "ankle_angle": 161.67
+      }
+    },
+    {
+      "frame_number": 75,
+      "timestamp": 1.271,
+      "joints": {
+        "shoulder_angle": 75.01,
+        "elbow_angle": 110.9,
+        "hip_angle": 177.34,
+        "knee_angle": 176.45,
+        "ankle_angle": 160.14
+      }
+    },
+    {
+      "frame_number": 76,
+      "timestamp": 1.288,
+      "joints": {
+        "shoulder_angle": 94.7,
+        "elbow_angle": 177.05,
+        "hip_angle": 177.63,
+        "knee_angle": 176.74,
+        "ankle_angle": 160.32
+      }
+    },
+    {
+      "frame_number": 77,
+      "timestamp": 1.305,
+      "joints": {
+        "shoulder_angle": 94.63,
+        "elbow_angle": 179.43,
+        "hip_angle": 177.79,
+        "knee_angle": 176.91,
+        "ankle_angle": 159.12
+      }
+    },
+    {
+      "frame_number": 78,
+      "timestamp": 1.322,
+      "joints": {
+        "shoulder_angle": 88.51,
+        "elbow_angle": 92.36,
+        "hip_angle": 178.07,
+        "knee_angle": 177.45,
+        "ankle_angle": 158.66
+      }
+    },
+    {
+      "frame_number": 79,
+      "timestamp": 1.339,
+      "joints": {
+        "shoulder_angle": 91.21,
+        "elbow_angle": 172.52,
+        "hip_angle": 177.73,
+        "knee_angle": 178.27,
+        "ankle_angle": 157.59
+      }
+    },
+    {
+      "frame_number": 80,
+      "timestamp": 1.356,
+      "joints": {
+        "shoulder_angle": 88.65,
+        "elbow_angle": 173.18,
+        "hip_angle": 177.77,
+        "knee_angle": 178.62,
+        "ankle_angle": 157.03
+      }
+    },
+    {
+      "frame_number": 81,
+      "timestamp": 1.373,
+      "joints": {
+        "shoulder_angle": 14.06,
+        "elbow_angle": 167.0,
+        "hip_angle": 178.16,
+        "knee_angle": 178.83,
+        "ankle_angle": 158.93
+      }
+    },
+    {
+      "frame_number": 82,
+      "timestamp": 1.39,
+      "joints": {
+        "shoulder_angle": 15.97,
+        "elbow_angle": 165.97,
+        "hip_angle": 178.15,
+        "knee_angle": 179.18,
+        "ankle_angle": 162.35
+      }
+    },
+    {
+      "frame_number": 83,
+      "timestamp": 1.407,
+      "joints": {
+        "shoulder_angle": 16.95,
+        "elbow_angle": 158.98,
+        "hip_angle": 178.16,
+        "knee_angle": 179.56,
+        "ankle_angle": 164.82
+      }
+    },
+    {
+      "frame_number": 84,
+      "timestamp": 1.424,
+      "joints": {
+        "shoulder_angle": 20.02,
+        "elbow_angle": 139.77,
+        "hip_angle": 178.47,
+        "knee_angle": 179.46,
+        "ankle_angle": 166.5
+      }
+    },
+    {
+      "frame_number": 85,
+      "timestamp": 1.441,
+      "joints": {
+        "shoulder_angle": 94.94,
+        "elbow_angle": 160.41,
+        "hip_angle": 178.49,
+        "knee_angle": 179.47,
+        "ankle_angle": 166.7
+      }
+    },
+    {
+      "frame_number": 86,
+      "timestamp": 1.458,
+      "joints": {
+        "shoulder_angle": 35.46,
+        "elbow_angle": 131.48,
+        "hip_angle": 178.2,
+        "knee_angle": 179.42,
+        "ankle_angle": 167.38
+      }
+    },
+    {
+      "frame_number": 87,
+      "timestamp": 1.475,
+      "joints": {
+        "shoulder_angle": 26.21,
+        "elbow_angle": 142.29,
+        "hip_angle": 177.76,
+        "knee_angle": 179.01,
+        "ankle_angle": 166.55
+      }
+    },
+    {
+      "frame_number": 88,
+      "timestamp": 1.492,
+      "joints": {
+        "shoulder_angle": 26.3,
+        "elbow_angle": 153.45,
+        "hip_angle": 177.9,
+        "knee_angle": 178.71,
+        "ankle_angle": 166.62
+      }
+    },
+    {
+      "frame_number": 89,
+      "timestamp": 1.508,
+      "joints": {
+        "shoulder_angle": 38.9,
+        "elbow_angle": 149.75,
+        "hip_angle": 177.89,
+        "knee_angle": 179.14,
+        "ankle_angle": 168.61
+      }
+    },
+    {
+      "frame_number": 90,
+      "timestamp": 1.525,
+      "joints": {
+        "shoulder_angle": 45.27,
+        "elbow_angle": 151.45,
+        "hip_angle": 177.95,
+        "knee_angle": 179.05,
+        "ankle_angle": 166.6
+      }
+    },
+    {
+      "frame_number": 91,
+      "timestamp": 1.542,
+      "joints": {
+        "shoulder_angle": 109.94,
+        "elbow_angle": 164.08,
+        "hip_angle": 178.03,
+        "knee_angle": 179.01,
+        "ankle_angle": 168.1
+      }
+    },
+    {
+      "frame_number": 92,
+      "timestamp": 1.559,
+      "joints": {
+        "shoulder_angle": 103.49,
+        "elbow_angle": 102.75,
+        "hip_angle": 178.19,
+        "knee_angle": 178.54,
+        "ankle_angle": 168.89
+      }
+    },
+    {
+      "frame_number": 93,
+      "timestamp": 1.576,
+      "joints": {
+        "shoulder_angle": 75.74,
+        "elbow_angle": 140.63,
+        "hip_angle": 178.03,
+        "knee_angle": 178.5,
+        "ankle_angle": 167.21
+      }
+    },
+    {
+      "frame_number": 94,
+      "timestamp": 1.593,
+      "joints": {
+        "shoulder_angle": 74.43,
+        "elbow_angle": 150.69,
+        "hip_angle": 178.03,
+        "knee_angle": 178.8,
+        "ankle_angle": 167.3
+      }
+    },
+    {
+      "frame_number": 95,
+      "timestamp": 1.61,
+      "joints": {
+        "shoulder_angle": 82.62,
+        "elbow_angle": 155.05,
+        "hip_angle": 178.06,
+        "knee_angle": 179.48,
+        "ankle_angle": 168.56
+      }
+    },
+    {
+      "frame_number": 96,
+      "timestamp": 1.627,
+      "joints": {
+        "shoulder_angle": 97.7,
+        "elbow_angle": 154.33,
+        "hip_angle": 178.44,
+        "knee_angle": 179.52,
+        "ankle_angle": 167.54
+      }
+    },
+    {
+      "frame_number": 97,
+      "timestamp": 1.644,
+      "joints": {
+        "shoulder_angle": 108.02,
+        "elbow_angle": 162.55,
+        "hip_angle": 178.16,
+        "knee_angle": 179.51,
+        "ankle_angle": 168.21
+      }
+    },
+    {
+      "frame_number": 98,
+      "timestamp": 1.661,
+      "joints": {
+        "shoulder_angle": 115.47,
+        "elbow_angle": 160.46,
+        "hip_angle": 177.84,
+        "knee_angle": 179.65,
+        "ankle_angle": 167.37
+      }
+    },
+    {
+      "frame_number": 99,
+      "timestamp": 1.678,
+      "joints": {
+        "shoulder_angle": 127.55,
+        "elbow_angle": 151.83,
+        "hip_angle": 177.18,
+        "knee_angle": 179.35,
+        "ankle_angle": 167.8
+      }
+    },
+    {
+      "frame_number": 100,
+      "timestamp": 1.695,
+      "joints": {
+        "shoulder_angle": 137.88,
+        "elbow_angle": 156.87,
+        "hip_angle": 177.13,
+        "knee_angle": 179.17,
+        "ankle_angle": 168.73
+      }
+    },
+    {
+      "frame_number": 101,
+      "timestamp": 1.712,
+      "joints": {
+        "shoulder_angle": 144.37,
+        "elbow_angle": 165.85,
+        "hip_angle": 177.48,
+        "knee_angle": 179.15,
+        "ankle_angle": 167.56
+      }
+    },
+    {
+      "frame_number": 102,
+      "timestamp": 1.729,
+      "joints": {
+        "shoulder_angle": 150.71,
+        "elbow_angle": 169.8,
+        "hip_angle": 177.41,
+        "knee_angle": 179.07,
+        "ankle_angle": 169.7
+      }
+    },
+    {
+      "frame_number": 103,
+      "timestamp": 1.746,
+      "joints": {
+        "shoulder_angle": 153.06,
+        "elbow_angle": 174.38,
+        "hip_angle": 177.43,
+        "knee_angle": 178.54,
+        "ankle_angle": 168.08
+      }
+    },
+    {
+      "frame_number": 104,
+      "timestamp": 1.763,
+      "joints": {
+        "shoulder_angle": 155.92,
+        "elbow_angle": 174.3,
+        "hip_angle": 177.13,
+        "knee_angle": 178.61,
+        "ankle_angle": 166.34
+      }
+    },
+    {
+      "frame_number": 105,
+      "timestamp": 1.78,
+      "joints": {
+        "shoulder_angle": 157.36,
+        "elbow_angle": 173.83,
+        "hip_angle": 176.79,
+        "knee_angle": 179.14,
+        "ankle_angle": 161.71
+      }
+    },
+    {
+      "frame_number": 106,
+      "timestamp": 1.797,
+      "joints": {
+        "shoulder_angle": 159.46,
+        "elbow_angle": 174.79,
+        "hip_angle": 176.88,
+        "knee_angle": 179.28,
+        "ankle_angle": 163.71
+      }
+    },
+    {
+      "frame_number": 107,
+      "timestamp": 1.814,
+      "joints": {
+        "shoulder_angle": 162.93,
+        "elbow_angle": 171.43,
+        "hip_angle": 176.79,
+        "knee_angle": 178.7,
+        "ankle_angle": 165.55
+      }
+    },
+    {
+      "frame_number": 108,
+      "timestamp": 1.831,
+      "joints": {
+        "shoulder_angle": 163.34,
+        "elbow_angle": 171.93,
+        "hip_angle": 176.69,
+        "knee_angle": 178.51,
+        "ankle_angle": 166.11
+      }
+    },
+    {
+      "frame_number": 109,
+      "timestamp": 1.847,
+      "joints": {
+        "shoulder_angle": 164.57,
+        "elbow_angle": 172.56,
+        "hip_angle": 176.5,
+        "knee_angle": 178.26,
+        "ankle_angle": 165.83
+      }
+    },
+    {
+      "frame_number": 110,
+      "timestamp": 1.864,
+      "joints": {
+        "shoulder_angle": 164.85,
+        "elbow_angle": 169.9,
+        "hip_angle": 176.04,
+        "knee_angle": 177.86,
+        "ankle_angle": 165.01
+      }
+    },
+    {
+      "frame_number": 111,
+      "timestamp": 1.881,
+      "joints": {
+        "shoulder_angle": 168.58,
+        "elbow_angle": 169.07,
+        "hip_angle": 176.52,
+        "knee_angle": 178.01,
+        "ankle_angle": 165.33
+      }
+    },
+    {
+      "frame_number": 112,
+      "timestamp": 1.898,
+      "joints": {
+        "shoulder_angle": 171.41,
+        "elbow_angle": 169.16,
+        "hip_angle": 176.43,
+        "knee_angle": 178.17,
+        "ankle_angle": 165.67
+      }
+    },
+    {
+      "frame_number": 113,
+      "timestamp": 1.915,
+      "joints": {
+        "shoulder_angle": 171.14,
+        "elbow_angle": 168.87,
+        "hip_angle": 175.39,
+        "knee_angle": 178.49,
+        "ankle_angle": 165.26
+      }
+    },
+    {
+      "frame_number": 114,
+      "timestamp": 1.932,
+      "joints": {
+        "shoulder_angle": 175.74,
+        "elbow_angle": 168.69,
+        "hip_angle": 174.66,
+        "knee_angle": 178.29,
+        "ankle_angle": 165.85
+      }
+    },
+    {
+      "frame_number": 115,
+      "timestamp": 1.949,
+      "joints": {
+        "shoulder_angle": 173.8,
+        "elbow_angle": 161.73,
+        "hip_angle": 173.84,
+        "knee_angle": 178.09,
+        "ankle_angle": 165.75
+      }
+    },
+    {
+      "frame_number": 116,
+      "timestamp": 1.966,
+      "joints": {
+        "shoulder_angle": 169.77,
+        "elbow_angle": 162.48,
+        "hip_angle": 173.33,
+        "knee_angle": 178.5,
+        "ankle_angle": 165.09
+      }
+    },
+    {
+      "frame_number": 117,
+      "timestamp": 1.983,
+      "joints": {
+        "shoulder_angle": 166.02,
+        "elbow_angle": 161.15,
+        "hip_angle": 173.05,
+        "knee_angle": 178.51,
+        "ankle_angle": 164.08
+      }
+    },
+    {
+      "frame_number": 118,
+      "timestamp": 2.0,
+      "joints": {
+        "shoulder_angle": 150.44,
+        "elbow_angle": 178.34,
+        "hip_angle": 172.39,
+        "knee_angle": 178.32,
+        "ankle_angle": 163.39
+      }
+    },
+    {
+      "frame_number": 119,
+      "timestamp": 2.017,
+      "joints": {
+        "shoulder_angle": 121.35,
+        "elbow_angle": 166.32,
+        "hip_angle": 172.07,
+        "knee_angle": 178.25,
+        "ankle_angle": 162.03
+      }
+    },
+    {
+      "frame_number": 120,
+      "timestamp": 2.034,
+      "joints": {
+        "shoulder_angle": 116.73,
+        "elbow_angle": 168.37,
+        "hip_angle": 171.31,
+        "knee_angle": 177.32,
+        "ankle_angle": 161.85
+      }
+    },
+    {
+      "frame_number": 121,
+      "timestamp": 2.051,
+      "joints": {
+        "shoulder_angle": 108.92,
+        "elbow_angle": 170.5,
+        "hip_angle": 171.0,
+        "knee_angle": 177.45,
+        "ankle_angle": 162.13
+      }
+    },
+    {
+      "frame_number": 122,
+      "timestamp": 2.068,
+      "joints": {
+        "shoulder_angle": 112.06,
+        "elbow_angle": 172.23,
+        "hip_angle": 170.72,
+        "knee_angle": 177.46,
+        "ankle_angle": 162.08
+      }
+    },
+    {
+      "frame_number": 123,
+      "timestamp": 2.085,
+      "joints": {
+        "shoulder_angle": 113.88,
+        "elbow_angle": 174.05,
+        "hip_angle": 170.7,
+        "knee_angle": 177.84,
+        "ankle_angle": 160.86
+      }
+    },
+    {
+      "frame_number": 124,
+      "timestamp": 2.102,
+      "joints": {
+        "shoulder_angle": 114.66,
+        "elbow_angle": 173.21,
+        "hip_angle": 170.22,
+        "knee_angle": 178.51,
+        "ankle_angle": 161.21
+      }
+    },
+    {
+      "frame_number": 125,
+      "timestamp": 2.119,
+      "joints": {
+        "shoulder_angle": 117.55,
+        "elbow_angle": 172.24,
+        "hip_angle": 169.42,
+        "knee_angle": 178.4,
+        "ankle_angle": 162.07
+      }
+    },
+    {
+      "frame_number": 126,
+      "timestamp": 2.136,
+      "joints": {
+        "shoulder_angle": 121.62,
+        "elbow_angle": 171.04,
+        "hip_angle": 169.22,
+        "knee_angle": 178.39,
+        "ankle_angle": 163.36
+      }
+    },
+    {
+      "frame_number": 127,
+      "timestamp": 2.153,
+      "joints": {
+        "shoulder_angle": 123.97,
+        "elbow_angle": 169.82,
+        "hip_angle": 168.42,
+        "knee_angle": 178.51,
+        "ankle_angle": 163.84
+      }
+    },
+    {
+      "frame_number": 128,
+      "timestamp": 2.169,
+      "joints": {
+        "shoulder_angle": 129.99,
+        "elbow_angle": 169.64,
+        "hip_angle": 167.7,
+        "knee_angle": 178.6,
+        "ankle_angle": 163.3
+      }
+    },
+    {
+      "frame_number": 129,
+      "timestamp": 2.186,
+      "joints": {
+        "shoulder_angle": 129.73,
+        "elbow_angle": 172.12,
+        "hip_angle": 167.24,
+        "knee_angle": 178.46,
+        "ankle_angle": 162.2
+      }
+    },
+    {
+      "frame_number": 130,
+      "timestamp": 2.203,
+      "joints": {
+        "shoulder_angle": 124.32,
+        "elbow_angle": 173.25,
+        "hip_angle": 165.59,
+        "knee_angle": 178.25,
+        "ankle_angle": 160.68
+      }
+    },
+    {
+      "frame_number": 131,
+      "timestamp": 2.22,
+      "joints": {
+        "shoulder_angle": 117.0,
+        "elbow_angle": 167.69,
+        "hip_angle": 164.09,
+        "knee_angle": 178.32,
+        "ankle_angle": 160.69
+      }
+    },
+    {
+      "frame_number": 132,
+      "timestamp": 2.237,
+      "joints": {
+        "shoulder_angle": 115.29,
+        "elbow_angle": 155.13,
+        "hip_angle": 163.41,
+        "knee_angle": 178.29,
+        "ankle_angle": 160.8
+      }
+    },
+    {
+      "frame_number": 133,
+      "timestamp": 2.254,
+      "joints": {
+        "shoulder_angle": 130.64,
+        "elbow_angle": 173.16,
+        "hip_angle": 162.52,
+        "knee_angle": 178.39,
+        "ankle_angle": 160.41
+      }
+    },
+    {
+      "frame_number": 134,
+      "timestamp": 2.271,
+      "joints": {
+        "shoulder_angle": 144.03,
+        "elbow_angle": 170.7,
+        "hip_angle": 162.07,
+        "knee_angle": 177.77,
+        "ankle_angle": 159.53
+      }
+    },
+    {
+      "frame_number": 135,
+      "timestamp": 2.288,
+      "joints": {
+        "shoulder_angle": 165.66,
+        "elbow_angle": 163.53,
+        "hip_angle": 161.24,
+        "knee_angle": 176.09,
+        "ankle_angle": 161.02
+      }
+    },
+    {
+      "frame_number": 136,
+      "timestamp": 2.305,
+      "joints": {
+        "shoulder_angle": 164.85,
+        "elbow_angle": 167.69,
+        "hip_angle": 159.7,
+        "knee_angle": 173.45,
+        "ankle_angle": 161.92
+      }
+    },
+    {
+      "frame_number": 137,
+      "timestamp": 2.322,
+      "joints": {
+        "shoulder_angle": 169.5,
+        "elbow_angle": 163.14,
+        "hip_angle": 159.11,
+        "knee_angle": 172.01,
+        "ankle_angle": 162.06
+      }
+    },
+    {
+      "frame_number": 138,
+      "timestamp": 2.339,
+      "joints": {
+        "shoulder_angle": 170.27,
+        "elbow_angle": 159.22,
+        "hip_angle": 159.02,
+        "knee_angle": 170.45,
+        "ankle_angle": 161.92
+      }
+    },
+    {
+      "frame_number": 139,
+      "timestamp": 2.356,
+      "joints": {
+        "shoulder_angle": 166.7,
+        "elbow_angle": 169.49,
+        "hip_angle": 158.61,
+        "knee_angle": 168.91,
+        "ankle_angle": 163.2
+      }
+    },
+    {
+      "frame_number": 140,
+      "timestamp": 2.373,
+      "joints": {
+        "shoulder_angle": 169.14,
+        "elbow_angle": 173.17,
+        "hip_angle": 156.71,
+        "knee_angle": 164.93,
+        "ankle_angle": 163.66
+      }
+    },
+    {
+      "frame_number": 141,
+      "timestamp": 2.39,
+      "joints": {
+        "shoulder_angle": 162.71,
+        "elbow_angle": 173.96,
+        "hip_angle": 157.62,
+        "knee_angle": 161.88,
+        "ankle_angle": 161.62
+      }
+    },
+    {
+      "frame_number": 142,
+      "timestamp": 2.407,
+      "joints": {
+        "shoulder_angle": 161.87,
+        "elbow_angle": 168.49,
+        "hip_angle": 157.05,
+        "knee_angle": 159.4,
+        "ankle_angle": 161.86
+      }
+    },
+    {
+      "frame_number": 143,
+      "timestamp": 2.424,
+      "joints": {
+        "shoulder_angle": 157.75,
+        "elbow_angle": 172.75,
+        "hip_angle": 156.26,
+        "knee_angle": 156.98,
+        "ankle_angle": 161.1
+      }
+    },
+    {
+      "frame_number": 144,
+      "timestamp": 2.441,
+      "joints": {
+        "shoulder_angle": 157.88,
+        "elbow_angle": 173.37,
+        "hip_angle": 158.46,
+        "knee_angle": 158.14,
+        "ankle_angle": 160.99
+      }
+    },
+    {
+      "frame_number": 145,
+      "timestamp": 2.458,
+      "joints": {
+        "shoulder_angle": 154.35,
+        "elbow_angle": 172.56,
+        "hip_angle": 156.63,
+        "knee_angle": 153.42,
+        "ankle_angle": 162.98
+      }
+    },
+    {
+      "frame_number": 146,
+      "timestamp": 2.475,
+      "joints": {
+        "shoulder_angle": 151.5,
+        "elbow_angle": 169.75,
+        "hip_angle": 157.5,
+        "knee_angle": 151.61,
+        "ankle_angle": 164.28
+      }
+    },
+    {
+      "frame_number": 147,
+      "timestamp": 2.492,
+      "joints": {
+        "shoulder_angle": 148.63,
+        "elbow_angle": 165.96,
+        "hip_angle": 159.01,
+        "knee_angle": 150.64,
+        "ankle_angle": 165.47
+      }
+    },
+    {
+      "frame_number": 148,
+      "timestamp": 2.508,
+      "joints": {
+        "shoulder_angle": 143.55,
+        "elbow_angle": 155.66,
+        "hip_angle": 160.61,
+        "knee_angle": 151.86,
+        "ankle_angle": 164.12
+      }
+    },
+    {
+      "frame_number": 149,
+      "timestamp": 2.525,
+      "joints": {
+        "shoulder_angle": 133.64,
+        "elbow_angle": 147.28,
+        "hip_angle": 161.91,
+        "knee_angle": 152.19,
+        "ankle_angle": 162.78
+      }
+    },
+    {
+      "frame_number": 150,
+      "timestamp": 2.542,
+      "joints": {
+        "shoulder_angle": 122.76,
+        "elbow_angle": 149.97,
+        "hip_angle": 163.61,
+        "knee_angle": 152.83,
+        "ankle_angle": 159.69
+      }
+    },
+    {
+      "frame_number": 151,
+      "timestamp": 2.559,
+      "joints": {
+        "shoulder_angle": 108.85,
+        "elbow_angle": 137.11,
+        "hip_angle": 165.74,
+        "knee_angle": 153.02,
+        "ankle_angle": 155.53
+      }
+    },
+    {
+      "frame_number": 152,
+      "timestamp": 2.576,
+      "joints": {
+        "shoulder_angle": 96.88,
+        "elbow_angle": 136.64,
+        "hip_angle": 167.63,
+        "knee_angle": 154.27,
+        "ankle_angle": 155.62
+      }
+    },
+    {
+      "frame_number": 153,
+      "timestamp": 2.593,
+      "joints": {
+        "shoulder_angle": 82.73,
+        "elbow_angle": 135.9,
+        "hip_angle": 168.85,
+        "knee_angle": 155.23,
+        "ankle_angle": 157.6
+      }
+    },
+    {
+      "frame_number": 154,
+      "timestamp": 2.61,
+      "joints": {
+        "shoulder_angle": 72.83,
+        "elbow_angle": 137.58,
+        "hip_angle": 170.47,
+        "knee_angle": 157.51,
+        "ankle_angle": 160.64
+      }
+    },
+    {
+      "frame_number": 155,
+      "timestamp": 2.627,
+      "joints": {
+        "shoulder_angle": 96.72,
+        "elbow_angle": 117.76,
+        "hip_angle": 173.67,
+        "knee_angle": 161.74,
+        "ankle_angle": 162.24
+      }
+    },
+    {
+      "frame_number": 156,
+      "timestamp": 2.644,
+      "joints": {
+        "shoulder_angle": 111.64,
+        "elbow_angle": 158.96,
+        "hip_angle": 175.51,
+        "knee_angle": 164.84,
+        "ankle_angle": 159.77
+      }
+    },
+    {
+      "frame_number": 157,
+      "timestamp": 2.661,
+      "joints": {
+        "shoulder_angle": 44.7,
+        "elbow_angle": 104.49,
+        "hip_angle": 177.0,
+        "knee_angle": 168.46,
+        "ankle_angle": 160.57
+      }
+    },
+    {
+      "frame_number": 158,
+      "timestamp": 2.678,
+      "joints": {
+        "shoulder_angle": 100.6,
+        "elbow_angle": 90.2,
+        "hip_angle": 179.29,
+        "knee_angle": 171.18,
+        "ankle_angle": 162.22
+      }
+    },
+    {
+      "frame_number": 159,
+      "timestamp": 2.695,
+      "joints": {
+        "shoulder_angle": 109.36,
+        "elbow_angle": 113.54,
+        "hip_angle": 178.96,
+        "knee_angle": 171.87,
+        "ankle_angle": 164.28
+      }
+    },
+    {
+      "frame_number": 160,
+      "timestamp": 2.712,
+      "joints": {
+        "shoulder_angle": 106.06,
+        "elbow_angle": 149.5,
+        "hip_angle": 178.96,
+        "knee_angle": 172.96,
+        "ankle_angle": 165.11
+      }
+    },
+    {
+      "frame_number": 161,
+      "timestamp": 2.729,
+      "joints": {
+        "shoulder_angle": 106.38,
+        "elbow_angle": 149.85,
+        "hip_angle": 178.81,
+        "knee_angle": 174.12,
+        "ankle_angle": 165.16
+      }
+    },
+    {
+      "frame_number": 162,
+      "timestamp": 2.746,
+      "joints": {
+        "shoulder_angle": 98.78,
+        "elbow_angle": 150.75,
+        "hip_angle": 178.28,
+        "knee_angle": 175.84,
+        "ankle_angle": 166.11
+      }
+    },
+    {
+      "frame_number": 163,
+      "timestamp": 2.763,
+      "joints": {
+        "shoulder_angle": 97.31,
+        "elbow_angle": 164.35,
+        "hip_angle": 178.11,
+        "knee_angle": 176.44,
+        "ankle_angle": 167.77
+      }
+    },
+    {
+      "frame_number": 164,
+      "timestamp": 2.78,
+      "joints": {
+        "shoulder_angle": 90.33,
+        "elbow_angle": 157.5,
+        "hip_angle": 178.17,
+        "knee_angle": 176.57,
+        "ankle_angle": 167.72
+      }
+    },
+    {
+      "frame_number": 165,
+      "timestamp": 2.797,
+      "joints": {
+        "shoulder_angle": 69.07,
+        "elbow_angle": 91.64,
+        "hip_angle": 178.21,
+        "knee_angle": 177.1,
+        "ankle_angle": 169.51
+      }
+    },
+    {
+      "frame_number": 166,
+      "timestamp": 2.814,
+      "joints": {
+        "shoulder_angle": 80.32,
+        "elbow_angle": 132.39,
+        "hip_angle": 178.08,
+        "knee_angle": 177.81,
+        "ankle_angle": 168.64
+      }
+    },
+    {
+      "frame_number": 167,
+      "timestamp": 2.831,
+      "joints": {
+        "shoulder_angle": 90.82,
+        "elbow_angle": 119.83,
+        "hip_angle": 178.14,
+        "knee_angle": 178.79,
+        "ankle_angle": 167.45
+      }
+    },
+    {
+      "frame_number": 168,
+      "timestamp": 2.847,
+      "joints": {
+        "shoulder_angle": 91.38,
+        "elbow_angle": 173.21,
+        "hip_angle": 177.79,
+        "knee_angle": 179.01,
+        "ankle_angle": 165.13
+      }
+    },
+    {
+      "frame_number": 169,
+      "timestamp": 2.864,
+      "joints": {
+        "shoulder_angle": 92.53,
+        "elbow_angle": 175.28,
+        "hip_angle": 177.94,
+        "knee_angle": 179.43,
+        "ankle_angle": 165.6
+      }
+    },
+    {
+      "frame_number": 170,
+      "timestamp": 2.881,
+      "joints": {
+        "shoulder_angle": 94.07,
+        "elbow_angle": 175.55,
+        "hip_angle": 177.79,
+        "knee_angle": 179.78,
+        "ankle_angle": 164.17
+      }
+    },
+    {
+      "frame_number": 171,
+      "timestamp": 2.898,
+      "joints": {
+        "shoulder_angle": 95.43,
+        "elbow_angle": 174.91,
+        "hip_angle": 177.46,
+        "knee_angle": 179.42,
+        "ankle_angle": 164.68
+      }
+    },
+    {
+      "frame_number": 172,
+      "timestamp": 2.915,
+      "joints": {
+        "shoulder_angle": 95.47,
+        "elbow_angle": 174.98,
+        "hip_angle": 177.31,
+        "knee_angle": 179.51,
+        "ankle_angle": 164.53
+      }
+    },
+    {
+      "frame_number": 173,
+      "timestamp": 2.932,
+      "joints": {
+        "shoulder_angle": 96.96,
+        "elbow_angle": 175.46,
+        "hip_angle": 177.14,
+        "knee_angle": 179.41,
+        "ankle_angle": 162.82
+      }
+    },
+    {
+      "frame_number": 174,
+      "timestamp": 2.949,
+      "joints": {
+        "shoulder_angle": 97.13,
+        "elbow_angle": 176.22,
+        "hip_angle": 177.1,
+        "knee_angle": 179.32,
+        "ankle_angle": 162.81
+      }
+    },
+    {
+      "frame_number": 175,
+      "timestamp": 2.966,
+      "joints": {
+        "shoulder_angle": 96.24,
+        "elbow_angle": 174.37,
+        "hip_angle": 177.09,
+        "knee_angle": 179.08,
+        "ankle_angle": 163.42
+      }
+    },
+    {
+      "frame_number": 176,
+      "timestamp": 2.983,
+      "joints": {
+        "shoulder_angle": 97.32,
+        "elbow_angle": 176.15,
+        "hip_angle": 177.01,
+        "knee_angle": 178.91,
+        "ankle_angle": 162.78
+      }
+    },
+    {
+      "frame_number": 177,
+      "timestamp": 3.0,
+      "joints": {
+        "shoulder_angle": 96.53,
+        "elbow_angle": 176.31,
+        "hip_angle": 176.73,
+        "knee_angle": 179.04,
+        "ankle_angle": 162.9
+      }
+    },
+    {
+      "frame_number": 178,
+      "timestamp": 3.017,
+      "joints": {
+        "shoulder_angle": 99.03,
+        "elbow_angle": 175.08,
+        "hip_angle": 176.53,
+        "knee_angle": 179.31,
+        "ankle_angle": 162.93
+      }
+    },
+    {
+      "frame_number": 179,
+      "timestamp": 3.034,
+      "joints": {
+        "shoulder_angle": 98.63,
+        "elbow_angle": 172.41,
+        "hip_angle": 176.57,
+        "knee_angle": 179.3,
+        "ankle_angle": 164.47
+      }
+    },
+    {
+      "frame_number": 180,
+      "timestamp": 3.051,
+      "joints": {
+        "shoulder_angle": 12.25,
+        "elbow_angle": 168.82,
+        "hip_angle": 176.7,
+        "knee_angle": 179.27,
+        "ankle_angle": 163.39
+      }
+    },
+    {
+      "frame_number": 181,
+      "timestamp": 3.068,
+      "joints": {
+        "shoulder_angle": 10.67,
+        "elbow_angle": 156.13,
+        "hip_angle": 177.21,
+        "knee_angle": 179.72,
+        "ankle_angle": 165.21
+      }
+    },
+    {
+      "frame_number": 182,
+      "timestamp": 3.085,
+      "joints": {
+        "shoulder_angle": 9.31,
+        "elbow_angle": 143.0,
+        "hip_angle": 177.58,
+        "knee_angle": 179.81,
+        "ankle_angle": 166.82
+      }
+    },
+    {
+      "frame_number": 183,
+      "timestamp": 3.102,
+      "joints": {
+        "shoulder_angle": 8.2,
+        "elbow_angle": 141.52,
+        "hip_angle": 178.16,
+        "knee_angle": 179.52,
+        "ankle_angle": 167.44
+      }
+    },
+    {
+      "frame_number": 184,
+      "timestamp": 3.119,
+      "joints": {
+        "shoulder_angle": 7.09,
+        "elbow_angle": 137.38,
+        "hip_angle": 178.44,
+        "knee_angle": 179.18,
+        "ankle_angle": 168.93
+      }
+    },
+    {
+      "frame_number": 185,
+      "timestamp": 3.136,
+      "joints": {
+        "shoulder_angle": 10.63,
+        "elbow_angle": 137.66,
+        "hip_angle": 178.66,
+        "knee_angle": 179.03,
+        "ankle_angle": 169.47
+      }
+    },
+    {
+      "frame_number": 186,
+      "timestamp": 3.153,
+      "joints": {
+        "shoulder_angle": 15.13,
+        "elbow_angle": 131.72,
+        "hip_angle": 178.22,
+        "knee_angle": 179.41,
+        "ankle_angle": 169.15
+      }
+    },
+    {
+      "frame_number": 187,
+      "timestamp": 3.169,
+      "joints": {
+        "shoulder_angle": 29.52,
+        "elbow_angle": 115.87,
+        "hip_angle": 177.79,
+        "knee_angle": 179.05,
+        "ankle_angle": 169.08
+      }
+    },
+    {
+      "frame_number": 188,
+      "timestamp": 3.186,
+      "joints": {
+        "shoulder_angle": 36.1,
+        "elbow_angle": 114.86,
+        "hip_angle": 178.44,
+        "knee_angle": 179.3,
+        "ankle_angle": 168.28
+      }
+    },
+    {
+      "frame_number": 189,
+      "timestamp": 3.203,
+      "joints": {
+        "shoulder_angle": 40.09,
+        "elbow_angle": 110.0,
+        "hip_angle": 177.45,
+        "knee_angle": 179.03,
+        "ankle_angle": 167.37
+      }
+    },
+    {
+      "frame_number": 190,
+      "timestamp": 3.22,
+      "joints": {
+        "shoulder_angle": 41.13,
+        "elbow_angle": 124.6,
+        "hip_angle": 177.96,
+        "knee_angle": 179.41,
+        "ankle_angle": 165.77
+      }
+    },
+    {
+      "frame_number": 191,
+      "timestamp": 3.237,
+      "joints": {
+        "shoulder_angle": 41.41,
+        "elbow_angle": 126.44,
+        "hip_angle": 177.58,
+        "knee_angle": 179.33,
+        "ankle_angle": 164.37
+      }
+    },
+    {
+      "frame_number": 192,
+      "timestamp": 3.254,
+      "joints": {
+        "shoulder_angle": 47.75,
+        "elbow_angle": 119.82,
+        "hip_angle": 176.1,
+        "knee_angle": 178.94,
+        "ankle_angle": 164.26
+      }
+    },
+    {
+      "frame_number": 193,
+      "timestamp": 3.271,
+      "joints": {
+        "shoulder_angle": 49.08,
+        "elbow_angle": 125.11,
+        "hip_angle": 175.98,
+        "knee_angle": 178.76,
+        "ankle_angle": 162.73
+      }
+    },
+    {
+      "frame_number": 194,
+      "timestamp": 3.288,
+      "joints": {
+        "shoulder_angle": 49.94,
+        "elbow_angle": 126.74,
+        "hip_angle": 175.58,
+        "knee_angle": 178.77,
+        "ankle_angle": 162.49
+      }
+    },
+    {
+      "frame_number": 195,
+      "timestamp": 3.305,
+      "joints": {
+        "shoulder_angle": 97.52,
+        "elbow_angle": 107.55,
+        "hip_angle": 174.36,
+        "knee_angle": 178.24,
+        "ankle_angle": 165.23
+      }
+    },
+    {
+      "frame_number": 196,
+      "timestamp": 3.322,
+      "joints": {
+        "shoulder_angle": 115.0,
+        "elbow_angle": 137.86,
+        "hip_angle": 173.93,
+        "knee_angle": 178.46,
+        "ankle_angle": 166.59
+      }
+    },
+    {
+      "frame_number": 197,
+      "timestamp": 3.339,
+      "joints": {
+        "shoulder_angle": 105.25,
+        "elbow_angle": 116.8,
+        "hip_angle": 173.8,
+        "knee_angle": 179.17,
+        "ankle_angle": 167.85
+      }
+    },
+    {
+      "frame_number": 198,
+      "timestamp": 3.356,
+      "joints": {
+        "shoulder_angle": 115.58,
+        "elbow_angle": 141.72,
+        "hip_angle": 173.74,
+        "knee_angle": 179.66,
+        "ankle_angle": 163.94
+      }
+    },
+    {
+      "frame_number": 199,
+      "timestamp": 3.373,
+      "joints": {
+        "shoulder_angle": 120.95,
+        "elbow_angle": 137.28,
+        "hip_angle": 172.74,
+        "knee_angle": 179.02,
+        "ankle_angle": 162.72
+      }
+    },
+    {
+      "frame_number": 200,
+      "timestamp": 3.39,
+      "joints": {
+        "shoulder_angle": 101.31,
+        "elbow_angle": 138.38,
+        "hip_angle": 171.98,
+        "knee_angle": 178.63,
+        "ankle_angle": 164.01
+      }
+    },
+    {
+      "frame_number": 201,
+      "timestamp": 3.407,
+      "joints": {
+        "shoulder_angle": 105.21,
+        "elbow_angle": 147.65,
+        "hip_angle": 171.45,
+        "knee_angle": 178.27,
+        "ankle_angle": 164.32
+      }
+    },
+    {
+      "frame_number": 202,
+      "timestamp": 3.424,
+      "joints": {
+        "shoulder_angle": 116.56,
+        "elbow_angle": 139.64,
+        "hip_angle": 170.29,
+        "knee_angle": 177.22,
+        "ankle_angle": 164.23
+      }
+    },
+    {
+      "frame_number": 203,
+      "timestamp": 3.441,
+      "joints": {
+        "shoulder_angle": 127.68,
+        "elbow_angle": 148.72,
+        "hip_angle": 169.96,
+        "knee_angle": 177.53,
+        "ankle_angle": 165.05
+      }
+    },
+    {
+      "frame_number": 204,
+      "timestamp": 3.458,
+      "joints": {
+        "shoulder_angle": 132.52,
+        "elbow_angle": 150.72,
+        "hip_angle": 169.81,
+        "knee_angle": 177.22,
+        "ankle_angle": 165.32
+      }
+    },
+    {
+      "frame_number": 205,
+      "timestamp": 3.475,
+      "joints": {
+        "shoulder_angle": 132.8,
+        "elbow_angle": 167.04,
+        "hip_angle": 169.02,
+        "knee_angle": 176.46,
+        "ankle_angle": 166.55
+      }
+    },
+    {
+      "frame_number": 206,
+      "timestamp": 3.492,
+      "joints": {
+        "shoulder_angle": 136.19,
+        "elbow_angle": 168.94,
+        "hip_angle": 168.3,
+        "knee_angle": 176.47,
+        "ankle_angle": 166.67
+      }
+    },
+    {
+      "frame_number": 207,
+      "timestamp": 3.508,
+      "joints": {
+        "shoulder_angle": 137.55,
+        "elbow_angle": 178.58,
+        "hip_angle": 168.49,
+        "knee_angle": 177.67,
+        "ankle_angle": 166.25
+      }
+    },
+    {
+      "frame_number": 208,
+      "timestamp": 3.525,
+      "joints": {
+        "shoulder_angle": 145.19,
+        "elbow_angle": 174.77,
+        "hip_angle": 167.69,
+        "knee_angle": 177.11,
+        "ankle_angle": 165.87
+      }
+    },
+    {
+      "frame_number": 209,
+      "timestamp": 3.542,
+      "joints": {
+        "shoulder_angle": 147.38,
+        "elbow_angle": 174.52,
+        "hip_angle": 167.55,
+        "knee_angle": 178.11,
+        "ankle_angle": 165.46
+      }
+    },
+    {
+      "frame_number": 210,
+      "timestamp": 3.559,
+      "joints": {
+        "shoulder_angle": 147.44,
+        "elbow_angle": 175.13,
+        "hip_angle": 166.79,
+        "knee_angle": 177.57,
+        "ankle_angle": 164.11
+      }
+    },
+    {
+      "frame_number": 211,
+      "timestamp": 3.576,
+      "joints": {
+        "shoulder_angle": 148.7,
+        "elbow_angle": 174.42,
+        "hip_angle": 166.24,
+        "knee_angle": 177.26,
+        "ankle_angle": 162.74
+      }
+    },
+    {
+      "frame_number": 212,
+      "timestamp": 3.593,
+      "joints": {
+        "shoulder_angle": 149.83,
+        "elbow_angle": 161.59,
+        "hip_angle": 165.94,
+        "knee_angle": 177.76,
+        "ankle_angle": 160.5
+      }
+    },
+    {
+      "frame_number": 213,
+      "timestamp": 3.61,
+      "joints": {
+        "shoulder_angle": 149.56,
+        "elbow_angle": 173.64,
+        "hip_angle": 166.25,
+        "knee_angle": 177.47,
+        "ankle_angle": 161.18
+      }
+    },
+    {
+      "frame_number": 214,
+      "timestamp": 3.627,
+      "joints": {
+        "shoulder_angle": 154.01,
+        "elbow_angle": 173.3,
+        "hip_angle": 166.14,
+        "knee_angle": 177.51,
+        "ankle_angle": 161.23
+      }
+    },
+    {
+      "frame_number": 215,
+      "timestamp": 3.644,
+      "joints": {
+        "shoulder_angle": 158.3,
+        "elbow_angle": 171.72,
+        "hip_angle": 165.76,
+        "knee_angle": 177.82,
+        "ankle_angle": 161.53
+      }
+    },
+    {
+      "frame_number": 216,
+      "timestamp": 3.661,
+      "joints": {
+        "shoulder_angle": 164.42,
+        "elbow_angle": 170.85,
+        "hip_angle": 165.08,
+        "knee_angle": 178.27,
+        "ankle_angle": 161.2
+      }
+    },
+    {
+      "frame_number": 217,
+      "timestamp": 3.678,
+      "joints": {
+        "shoulder_angle": 168.52,
+        "elbow_angle": 168.22,
+        "hip_angle": 164.14,
+        "knee_angle": 178.19,
+        "ankle_angle": 160.59
+      }
+    },
+    {
+      "frame_number": 218,
+      "timestamp": 3.695,
+      "joints": {
+        "shoulder_angle": 174.69,
+        "elbow_angle": 168.56,
+        "hip_angle": 162.96,
+        "knee_angle": 178.38,
+        "ankle_angle": 160.29
+      }
+    },
+    {
+      "frame_number": 219,
+      "timestamp": 3.712,
+      "joints": {
+        "shoulder_angle": 171.88,
+        "elbow_angle": 166.03,
+        "hip_angle": 162.13,
+        "knee_angle": 178.27,
+        "ankle_angle": 160.36
+      }
+    },
+    {
+      "frame_number": 220,
+      "timestamp": 3.729,
+      "joints": {
+        "shoulder_angle": 163.61,
+        "elbow_angle": 175.19,
+        "hip_angle": 160.99,
+        "knee_angle": 178.5,
+        "ankle_angle": 160.21
+      }
+    },
+    {
+      "frame_number": 221,
+      "timestamp": 3.746,
+      "joints": {
+        "shoulder_angle": 156.7,
+        "elbow_angle": 175.91,
+        "hip_angle": 158.95,
+        "knee_angle": 178.44,
+        "ankle_angle": 160.51
+      }
+    },
+    {
+      "frame_number": 222,
+      "timestamp": 3.763,
+      "joints": {
+        "shoulder_angle": 160.67,
+        "elbow_angle": 176.28,
+        "hip_angle": 158.07,
+        "knee_angle": 177.86,
+        "ankle_angle": 159.84
+      }
+    },
+    {
+      "frame_number": 223,
+      "timestamp": 3.78,
+      "joints": {
+        "shoulder_angle": 161.42,
+        "elbow_angle": 176.28,
+        "hip_angle": 156.53,
+        "knee_angle": 176.49,
+        "ankle_angle": 159.08
+      }
+    },
+    {
+      "frame_number": 224,
+      "timestamp": 3.797,
+      "joints": {
+        "shoulder_angle": 156.29,
+        "elbow_angle": 171.93,
+        "hip_angle": 154.05,
+        "knee_angle": 175.42,
+        "ankle_angle": 158.18
+      }
+    },
+    {
+      "frame_number": 225,
+      "timestamp": 3.814,
+      "joints": {
+        "shoulder_angle": 153.64,
+        "elbow_angle": 177.76,
+        "hip_angle": 150.63,
+        "knee_angle": 171.93,
+        "ankle_angle": 158.77
+      }
+    },
+    {
+      "frame_number": 226,
+      "timestamp": 3.831,
+      "joints": {
+        "shoulder_angle": 153.05,
+        "elbow_angle": 178.26,
+        "hip_angle": 148.15,
+        "knee_angle": 172.47,
+        "ankle_angle": 161.15
+      }
+    },
+    {
+      "frame_number": 227,
+      "timestamp": 3.847,
+      "joints": {
+        "shoulder_angle": 151.69,
+        "elbow_angle": 173.28,
+        "hip_angle": 141.58,
+        "knee_angle": 169.42,
+        "ankle_angle": 159.6
+      }
+    },
+    {
+      "frame_number": 228,
+      "timestamp": 3.864,
+      "joints": {
+        "shoulder_angle": 145.65,
+        "elbow_angle": 172.23,
+        "hip_angle": 136.83,
+        "knee_angle": 167.03,
+        "ankle_angle": 161.06
+      }
+    },
+    {
+      "frame_number": 229,
+      "timestamp": 3.881,
+      "joints": {
+        "shoulder_angle": 141.53,
+        "elbow_angle": 171.88,
+        "hip_angle": 131.58,
+        "knee_angle": 164.21,
+        "ankle_angle": 159.59
+      }
+    },
+    {
+      "frame_number": 230,
+      "timestamp": 3.898,
+      "joints": {
+        "shoulder_angle": 143.12,
+        "elbow_angle": 176.64,
+        "hip_angle": 128.04,
+        "knee_angle": 161.05,
+        "ankle_angle": 161.36
+      }
+    },
+    {
+      "frame_number": 231,
+      "timestamp": 3.915,
+      "joints": {
+        "shoulder_angle": 142.71,
+        "elbow_angle": 177.3,
+        "hip_angle": 123.62,
+        "knee_angle": 159.76,
+        "ankle_angle": 159.93
+      }
+    },
+    {
+      "frame_number": 232,
+      "timestamp": 3.932,
+      "joints": {
+        "shoulder_angle": 143.58,
+        "elbow_angle": 173.72,
+        "hip_angle": 117.26,
+        "knee_angle": 159.48,
+        "ankle_angle": 166.21
+      }
+    },
+    {
+      "frame_number": 233,
+      "timestamp": 3.949,
+      "joints": {
+        "shoulder_angle": 146.1,
+        "elbow_angle": 175.01,
+        "hip_angle": 115.45,
+        "knee_angle": 159.82,
+        "ankle_angle": 163.64
+      }
+    },
+    {
+      "frame_number": 234,
+      "timestamp": 3.966,
+      "joints": {
+        "shoulder_angle": 143.26,
+        "elbow_angle": 176.05,
+        "hip_angle": 108.11,
+        "knee_angle": 156.94,
+        "ankle_angle": 165.43
+      }
+    },
+    {
+      "frame_number": 235,
+      "timestamp": 3.983,
+      "joints": {
+        "shoulder_angle": 145.1,
+        "elbow_angle": 177.12,
+        "hip_angle": 99.4,
+        "knee_angle": 154.51,
+        "ankle_angle": 164.98
+      }
+    },
+    {
+      "frame_number": 236,
+      "timestamp": 4.0,
+      "joints": {
+        "shoulder_angle": 147.91,
+        "elbow_angle": 177.56,
+        "hip_angle": 91.19,
+        "knee_angle": 154.0,
+        "ankle_angle": 163.28
+      }
+    },
+    {
+      "frame_number": 237,
+      "timestamp": 4.017,
+      "joints": {
+        "shoulder_angle": 148.86,
+        "elbow_angle": 179.25,
+        "hip_angle": 85.24,
+        "knee_angle": 152.94,
+        "ankle_angle": 159.49
+      }
+    },
+    {
+      "frame_number": 238,
+      "timestamp": 4.034,
+      "joints": {
+        "shoulder_angle": 151.63,
+        "elbow_angle": 176.81,
+        "hip_angle": 80.6,
+        "knee_angle": 152.13,
+        "ankle_angle": 160.84
+      }
+    },
+    {
+      "frame_number": 239,
+      "timestamp": 4.051,
+      "joints": {
+        "shoulder_angle": 149.84,
+        "elbow_angle": 176.9,
+        "hip_angle": 75.16,
+        "knee_angle": 151.26,
+        "ankle_angle": 157.19
+      }
+    },
+    {
+      "frame_number": 240,
+      "timestamp": 4.068,
+      "joints": {
+        "shoulder_angle": 152.11,
+        "elbow_angle": 175.42,
+        "hip_angle": 73.18,
+        "knee_angle": 149.26,
+        "ankle_angle": 159.11
+      }
+    },
+    {
+      "frame_number": 241,
+      "timestamp": 4.085,
+      "joints": {
+        "shoulder_angle": 153.86,
+        "elbow_angle": 173.26,
+        "hip_angle": 69.06,
+        "knee_angle": 144.66,
+        "ankle_angle": 158.18
+      }
+    },
+    {
+      "frame_number": 242,
+      "timestamp": 4.102,
+      "joints": {
+        "shoulder_angle": 157.25,
+        "elbow_angle": 177.25,
+        "hip_angle": 66.32,
+        "knee_angle": 142.73,
+        "ankle_angle": 161.15
+      }
+    },
+    {
+      "frame_number": 243,
+      "timestamp": 4.119,
+      "joints": {
+        "shoulder_angle": 156.39,
+        "elbow_angle": 176.17,
+        "hip_angle": 66.3,
+        "knee_angle": 141.98,
+        "ankle_angle": 169.05
+      }
+    },
+    {
+      "frame_number": 244,
+      "timestamp": 4.136,
+      "joints": {
+        "shoulder_angle": 158.15,
+        "elbow_angle": 175.77,
+        "hip_angle": 63.16,
+        "knee_angle": 139.87,
+        "ankle_angle": 159.15
+      }
+    },
+    {
+      "frame_number": 245,
+      "timestamp": 4.153,
+      "joints": {
+        "shoulder_angle": 170.21,
+        "elbow_angle": 168.18,
+        "hip_angle": 60.13,
+        "knee_angle": 128.98,
+        "ankle_angle": 151.12
+      }
+    },
+    {
+      "frame_number": 246,
+      "timestamp": 4.169,
+      "joints": {
+        "shoulder_angle": 167.54,
+        "elbow_angle": 171.8,
+        "hip_angle": 63.67,
+        "knee_angle": 132.08,
+        "ankle_angle": 148.67
+      }
+    },
+    {
+      "frame_number": 247,
+      "timestamp": 4.186,
+      "joints": {
+        "shoulder_angle": 158.67,
+        "elbow_angle": 146.96,
+        "hip_angle": 66.32,
+        "knee_angle": 127.71,
+        "ankle_angle": 144.71
+      }
+    },
+    {
+      "frame_number": 248,
+      "timestamp": 4.203,
+      "joints": {
+        "shoulder_angle": 142.53,
+        "elbow_angle": 151.24,
+        "hip_angle": 68.5,
+        "knee_angle": 125.6,
+        "ankle_angle": 144.72
+      }
+    },
+    {
+      "frame_number": 249,
+      "timestamp": 4.22,
+      "joints": {
+        "shoulder_angle": 141.32,
+        "elbow_angle": 150.2,
+        "hip_angle": 68.55,
+        "knee_angle": 121.88,
+        "ankle_angle": 131.37
+      }
+    },
+    {
+      "frame_number": 250,
+      "timestamp": 4.237,
+      "joints": {
+        "shoulder_angle": 170.25,
+        "elbow_angle": 141.23,
+        "hip_angle": 78.47,
+        "knee_angle": 139.39,
+        "ankle_angle": 103.88
+      }
+    },
+    {
+      "frame_number": 251,
+      "timestamp": 4.254,
+      "joints": {
+        "shoulder_angle": 157.29,
+        "elbow_angle": 143.2,
+        "hip_angle": 74.93,
+        "knee_angle": 125.8,
+        "ankle_angle": 123.1
+      }
+    },
+    {
+      "frame_number": 252,
+      "timestamp": 4.271,
+      "joints": {
+        "shoulder_angle": 152.58,
+        "elbow_angle": 146.2,
+        "hip_angle": 81.2,
+        "knee_angle": 134.9,
+        "ankle_angle": 145.19
+      }
+    },
+    {
+      "frame_number": 253,
+      "timestamp": 4.288,
+      "joints": {
+        "shoulder_angle": 135.64,
+        "elbow_angle": 159.18,
+        "hip_angle": 84.82,
+        "knee_angle": 142.81,
+        "ankle_angle": 140.73
+      }
+    },
+    {
+      "frame_number": 254,
+      "timestamp": 4.305,
+      "joints": {
+        "shoulder_angle": 135.5,
+        "elbow_angle": 162.48,
+        "hip_angle": 87.25,
+        "knee_angle": 139.66,
+        "ankle_angle": 139.74
+      }
+    },
+    {
+      "frame_number": 255,
+      "timestamp": 4.322,
+      "joints": {
+        "shoulder_angle": 131.69,
+        "elbow_angle": 171.32,
+        "hip_angle": 93.46,
+        "knee_angle": 133.07,
+        "ankle_angle": 133.42
+      }
+    },
+    {
+      "frame_number": 256,
+      "timestamp": 4.339,
+      "joints": {
+        "shoulder_angle": 132.66,
+        "elbow_angle": 169.15,
+        "hip_angle": 98.82,
+        "knee_angle": 131.47,
+        "ankle_angle": 124.51
+      }
+    },
+    {
+      "frame_number": 257,
+      "timestamp": 4.356,
+      "joints": {
+        "shoulder_angle": 132.26,
+        "elbow_angle": 161.05,
+        "hip_angle": 103.82,
+        "knee_angle": 132.0,
+        "ankle_angle": 117.38
+      }
+    },
+    {
+      "frame_number": 258,
+      "timestamp": 4.373,
+      "joints": {
+        "shoulder_angle": 125.11,
+        "elbow_angle": 159.97,
+        "hip_angle": 112.85,
+        "knee_angle": 137.98,
+        "ankle_angle": 112.28
+      }
+    },
+    {
+      "frame_number": 259,
+      "timestamp": 4.39,
+      "joints": {
+        "shoulder_angle": 98.77,
+        "elbow_angle": 166.77,
+        "hip_angle": 116.74,
+        "knee_angle": 138.01,
+        "ankle_angle": 123.17
+      }
+    },
+    {
+      "frame_number": 260,
+      "timestamp": 4.407,
+      "joints": {
+        "shoulder_angle": 52.09,
+        "elbow_angle": 170.83,
+        "hip_angle": 124.23,
+        "knee_angle": 141.84,
+        "ankle_angle": 127.03
+      }
+    },
+    {
+      "frame_number": 261,
+      "timestamp": 4.424,
+      "joints": {
+        "shoulder_angle": 55.27,
+        "elbow_angle": 161.37,
+        "hip_angle": 130.99,
+        "knee_angle": 140.61,
+        "ankle_angle": 119.91
+      }
+    },
+    {
+      "frame_number": 262,
+      "timestamp": 4.441,
+      "joints": {
+        "shoulder_angle": 53.29,
+        "elbow_angle": 158.19,
+        "hip_angle": 137.14,
+        "knee_angle": 144.83,
+        "ankle_angle": 141.59
+      }
+    },
+    {
+      "frame_number": 263,
+      "timestamp": 4.458,
+      "joints": {
+        "shoulder_angle": 40.25,
+        "elbow_angle": 156.31,
+        "hip_angle": 143.7,
+        "knee_angle": 149.49,
+        "ankle_angle": 160.62
+      }
+    },
+    {
+      "frame_number": 264,
+      "timestamp": 4.475,
+      "joints": {
+        "shoulder_angle": 26.63,
+        "elbow_angle": 151.33,
+        "hip_angle": 151.85,
+        "knee_angle": 159.81,
+        "ankle_angle": 160.28
+      }
+    },
+    {
+      "frame_number": 265,
+      "timestamp": 4.492,
+      "joints": {
+        "shoulder_angle": 23.79,
+        "elbow_angle": 146.94,
+        "hip_angle": 159.86,
+        "knee_angle": 167.65,
+        "ankle_angle": 159.15
+      }
+    },
+    {
+      "frame_number": 266,
+      "timestamp": 4.508,
+      "joints": {
+        "shoulder_angle": 18.18,
+        "elbow_angle": 144.66,
+        "hip_angle": 169.63,
+        "knee_angle": 175.42,
+        "ankle_angle": 156.01
+      }
+    },
+    {
+      "frame_number": 267,
+      "timestamp": 4.525,
+      "joints": {
+        "shoulder_angle": 25.43,
+        "elbow_angle": 143.0,
+        "hip_angle": 179.12,
+        "knee_angle": 179.24,
+        "ankle_angle": 151.8
+      }
+    },
+    {
+      "frame_number": 268,
+      "timestamp": 4.542,
+      "joints": {
+        "shoulder_angle": 30.56,
+        "elbow_angle": 139.77,
+        "hip_angle": 177.37,
+        "knee_angle": 177.84,
+        "ankle_angle": 153.48
+      }
+    },
+    {
+      "frame_number": 269,
+      "timestamp": 4.559,
+      "joints": {
+        "shoulder_angle": 25.19,
+        "elbow_angle": 144.54,
+        "hip_angle": 176.9,
+        "knee_angle": 171.43,
+        "ankle_angle": 113.61
+      }
+    },
+    {
+      "frame_number": 270,
+      "timestamp": 4.576,
+      "joints": {
+        "shoulder_angle": 31.02,
+        "elbow_angle": 137.19,
+        "hip_angle": 175.01,
+        "knee_angle": 161.7,
+        "ankle_angle": 106.26
+      }
+    },
+    {
+      "frame_number": 271,
+      "timestamp": 4.593,
+      "joints": {
+        "shoulder_angle": 31.47,
+        "elbow_angle": 140.6,
+        "hip_angle": 177.22,
+        "knee_angle": 140.26,
+        "ankle_angle": 124.73
+      }
+    },
+    {
+      "frame_number": 272,
+      "timestamp": 4.61,
+      "joints": {
+        "shoulder_angle": 40.09,
+        "elbow_angle": 135.1,
+        "hip_angle": 175.33,
+        "knee_angle": 108.8,
+        "ankle_angle": 112.99
+      }
+    },
+    {
+      "frame_number": 273,
+      "timestamp": 4.627,
+      "joints": {
+        "shoulder_angle": 35.93,
+        "elbow_angle": 135.52,
+        "hip_angle": 174.61,
+        "knee_angle": 89.9,
+        "ankle_angle": 124.4
+      }
+    },
+    {
+      "frame_number": 274,
+      "timestamp": 4.644,
+      "joints": {
+        "shoulder_angle": 41.64,
+        "elbow_angle": 134.44,
+        "hip_angle": 173.88,
+        "knee_angle": 69.64,
+        "ankle_angle": 129.46
+      }
+    },
+    {
+      "frame_number": 275,
+      "timestamp": 4.661,
+      "joints": {
+        "shoulder_angle": 44.55,
+        "elbow_angle": 136.37,
+        "hip_angle": 165.59,
+        "knee_angle": 47.85,
+        "ankle_angle": 132.31
+      }
+    },
+    {
+      "frame_number": 276,
+      "timestamp": 4.678,
+      "joints": {
+        "shoulder_angle": 59.94,
+        "elbow_angle": 139.15,
+        "hip_angle": 159.88,
+        "knee_angle": 40.65,
+        "ankle_angle": 144.27
+      }
+    },
+    {
+      "frame_number": 277,
+      "timestamp": 4.695,
+      "joints": {
+        "shoulder_angle": 73.0,
+        "elbow_angle": 139.02,
+        "hip_angle": 152.61,
+        "knee_angle": 39.18,
+        "ankle_angle": 142.95
+      }
+    },
+    {
+      "frame_number": 278,
+      "timestamp": 4.712,
+      "joints": {
+        "shoulder_angle": 79.92,
+        "elbow_angle": 152.99,
+        "hip_angle": 149.29,
+        "knee_angle": 36.82,
+        "ankle_angle": 139.73
+      }
+    },
+    {
+      "frame_number": 279,
+      "timestamp": 4.729,
+      "joints": {
+        "shoulder_angle": 78.33,
+        "elbow_angle": 147.34,
+        "hip_angle": 146.46,
+        "knee_angle": 42.86,
+        "ankle_angle": 152.83
+      }
+    },
+    {
+      "frame_number": 280,
+      "timestamp": 4.746,
+      "joints": {
+        "shoulder_angle": 79.73,
+        "elbow_angle": 152.27,
+        "hip_angle": 137.75,
+        "knee_angle": 59.81,
+        "ankle_angle": 158.49
+      }
+    },
+    {
+      "frame_number": 281,
+      "timestamp": 4.763,
+      "joints": {
+        "shoulder_angle": 87.63,
+        "elbow_angle": 159.57,
+        "hip_angle": 133.21,
+        "knee_angle": 110.07,
+        "ankle_angle": 156.52
+      }
+    },
+    {
+      "frame_number": 282,
+      "timestamp": 4.78,
+      "joints": {
+        "shoulder_angle": 88.49,
+        "elbow_angle": 162.97,
+        "hip_angle": 121.73,
+        "knee_angle": 110.66,
+        "ankle_angle": 139.72
+      }
+    },
+    {
+      "frame_number": 283,
+      "timestamp": 4.797,
+      "joints": {
+        "shoulder_angle": 92.72,
+        "elbow_angle": 172.59,
+        "hip_angle": 115.7,
+        "knee_angle": 123.7,
+        "ankle_angle": 163.5
+      }
+    },
+    {
+      "frame_number": 284,
+      "timestamp": 4.814,
+      "joints": {
+        "shoulder_angle": 88.48,
+        "elbow_angle": 169.09,
+        "hip_angle": 116.27,
+        "knee_angle": 140.83,
+        "ankle_angle": 165.92
+      }
+    },
+    {
+      "frame_number": 285,
+      "timestamp": 4.831,
+      "joints": {
+        "shoulder_angle": 88.95,
+        "elbow_angle": 171.42,
+        "hip_angle": 110.78,
+        "knee_angle": 147.86,
+        "ankle_angle": 162.64
+      }
+    },
+    {
+      "frame_number": 286,
+      "timestamp": 4.847,
+      "joints": {
+        "shoulder_angle": 96.93,
+        "elbow_angle": 167.65,
+        "hip_angle": 106.23,
+        "knee_angle": 160.67,
+        "ankle_angle": 154.38
+      }
+    },
+    {
+      "frame_number": 287,
+      "timestamp": 4.864,
+      "joints": {
+        "shoulder_angle": 95.28,
+        "elbow_angle": 171.59,
+        "hip_angle": 108.05,
+        "knee_angle": 173.83,
+        "ankle_angle": 157.48
+      }
+    },
+    {
+      "frame_number": 288,
+      "timestamp": 4.881,
+      "joints": {
+        "shoulder_angle": 102.31,
+        "elbow_angle": 171.37,
+        "hip_angle": 105.48,
+        "knee_angle": 177.26,
+        "ankle_angle": 148.82
+      }
+    },
+    {
+      "frame_number": 289,
+      "timestamp": 4.898,
+      "joints": {
+        "shoulder_angle": 106.76,
+        "elbow_angle": 170.59,
+        "hip_angle": 102.21,
+        "knee_angle": 172.83,
+        "ankle_angle": 141.6
+      }
+    },
+    {
+      "frame_number": 290,
+      "timestamp": 4.915,
+      "joints": {
+        "shoulder_angle": 111.39,
+        "elbow_angle": 172.3,
+        "hip_angle": 97.62,
+        "knee_angle": 167.34,
+        "ankle_angle": 147.75
+      }
+    },
+    {
+      "frame_number": 291,
+      "timestamp": 4.932,
+      "joints": {
+        "shoulder_angle": 120.42,
+        "elbow_angle": 172.3,
+        "hip_angle": 92.23,
+        "knee_angle": 158.62,
+        "ankle_angle": 153.16
+      }
+    },
+    {
+      "frame_number": 292,
+      "timestamp": 4.949,
+      "joints": {
+        "shoulder_angle": 120.35,
+        "elbow_angle": 170.65,
+        "hip_angle": 85.74,
+        "knee_angle": 146.71,
+        "ankle_angle": 152.46
+      }
+    },
+    {
+      "frame_number": 293,
+      "timestamp": 4.966,
+      "joints": {
+        "shoulder_angle": 123.3,
+        "elbow_angle": 174.13,
+        "hip_angle": 64.28,
+        "knee_angle": 118.5,
+        "ankle_angle": 158.44
+      }
+    },
+    {
+      "frame_number": 294,
+      "timestamp": 4.983,
+      "joints": {
+        "shoulder_angle": 119.69,
+        "elbow_angle": 175.18,
+        "hip_angle": 58.18,
+        "knee_angle": 109.4,
+        "ankle_angle": 156.14
+      }
+    },
+    {
+      "frame_number": 295,
+      "timestamp": 5.0,
+      "joints": {
+        "shoulder_angle": 114.73,
+        "elbow_angle": 172.71,
+        "hip_angle": 53.65,
+        "knee_angle": 97.81,
+        "ankle_angle": 144.23
+      }
+    },
+    {
+      "frame_number": 296,
+      "timestamp": 5.017,
+      "joints": {
+        "shoulder_angle": 106.47,
+        "elbow_angle": 170.0,
+        "hip_angle": 52.29,
+        "knee_angle": 92.68,
+        "ankle_angle": 147.29
+      }
+    },
+    {
+      "frame_number": 297,
+      "timestamp": 5.034,
+      "joints": {
+        "shoulder_angle": 101.37,
+        "elbow_angle": 169.77,
+        "hip_angle": 53.19,
+        "knee_angle": 89.28,
+        "ankle_angle": 165.02
+      }
+    },
+    {
+      "frame_number": 298,
+      "timestamp": 5.051,
+      "joints": {
+        "shoulder_angle": 91.92,
+        "elbow_angle": 173.35,
+        "hip_angle": 51.53,
+        "knee_angle": 86.34,
+        "ankle_angle": 169.95
+      }
+    },
+    {
+      "frame_number": 299,
+      "timestamp": 5.068,
+      "joints": {
+        "shoulder_angle": 88.45,
+        "elbow_angle": 167.92,
+        "hip_angle": 50.15,
+        "knee_angle": 80.24,
+        "ankle_angle": 167.13
+      }
+    },
+    {
+      "frame_number": 300,
+      "timestamp": 5.085,
+      "joints": {
+        "shoulder_angle": 84.94,
+        "elbow_angle": 164.85,
+        "hip_angle": 49.98,
+        "knee_angle": 76.34,
+        "ankle_angle": 165.81
+      }
+    },
+    {
+      "frame_number": 301,
+      "timestamp": 5.102,
+      "joints": {
+        "shoulder_angle": 77.91,
+        "elbow_angle": 159.87,
+        "hip_angle": 51.52,
+        "knee_angle": 74.63,
+        "ankle_angle": 160.78
+      }
+    },
+    {
+      "frame_number": 302,
+      "timestamp": 5.119,
+      "joints": {
+        "shoulder_angle": 68.39,
+        "elbow_angle": 157.8,
+        "hip_angle": 54.94,
+        "knee_angle": 75.77,
+        "ankle_angle": 162.89
+      }
+    },
+    {
+      "frame_number": 303,
+      "timestamp": 5.136,
+      "joints": {
+        "shoulder_angle": 67.97,
+        "elbow_angle": 160.41,
+        "hip_angle": 57.98,
+        "knee_angle": 76.57,
+        "ankle_angle": 160.62
+      }
+    },
+    {
+      "frame_number": 304,
+      "timestamp": 5.153,
+      "joints": {
+        "shoulder_angle": 73.09,
+        "elbow_angle": 151.26,
+        "hip_angle": 63.77,
+        "knee_angle": 78.55,
+        "ankle_angle": 156.39
+      }
+    },
+    {
+      "frame_number": 305,
+      "timestamp": 5.169,
+      "joints": {
+        "shoulder_angle": 72.43,
+        "elbow_angle": 154.2,
+        "hip_angle": 69.13,
+        "knee_angle": 81.35,
+        "ankle_angle": 154.62
+      }
+    },
+    {
+      "frame_number": 306,
+      "timestamp": 5.186,
+      "joints": {
+        "shoulder_angle": 64.58,
+        "elbow_angle": 144.12,
+        "hip_angle": 77.13,
+        "knee_angle": 85.26,
+        "ankle_angle": 158.45
+      }
+    },
+    {
+      "frame_number": 307,
+      "timestamp": 5.203,
+      "joints": {
+        "shoulder_angle": 62.37,
+        "elbow_angle": 143.41,
+        "hip_angle": 86.52,
+        "knee_angle": 92.81,
+        "ankle_angle": 156.82
+      }
+    },
+    {
+      "frame_number": 308,
+      "timestamp": 5.22,
+      "joints": {
+        "shoulder_angle": 72.17,
+        "elbow_angle": 119.93,
+        "hip_angle": 97.12,
+        "knee_angle": 100.28,
+        "ankle_angle": 160.28
+      }
+    },
+    {
+      "frame_number": 309,
+      "timestamp": 5.237,
+      "joints": {
+        "shoulder_angle": 79.52,
+        "elbow_angle": 122.27,
+        "hip_angle": 106.82,
+        "knee_angle": 109.74,
+        "ankle_angle": 159.23
+      }
+    },
+    {
+      "frame_number": 310,
+      "timestamp": 5.254,
+      "joints": {
+        "shoulder_angle": 76.6,
+        "elbow_angle": 127.62,
+        "hip_angle": 110.72,
+        "knee_angle": 111.51,
+        "ankle_angle": 158.41
+      }
+    },
+    {
+      "frame_number": 311,
+      "timestamp": 5.271,
+      "joints": {
+        "shoulder_angle": 67.15,
+        "elbow_angle": 150.35,
+        "hip_angle": 116.87,
+        "knee_angle": 114.01,
+        "ankle_angle": 154.11
+      }
+    },
+    {
+      "frame_number": 312,
+      "timestamp": 5.288,
+      "joints": {
+        "shoulder_angle": 72.03,
+        "elbow_angle": 146.4,
+        "hip_angle": 119.93,
+        "knee_angle": 114.64,
+        "ankle_angle": 146.08
+      }
+    },
+    {
+      "frame_number": 313,
+      "timestamp": 5.305,
+      "joints": {
+        "shoulder_angle": 92.01,
+        "elbow_angle": 142.45,
+        "hip_angle": 124.11,
+        "knee_angle": 117.54,
+        "ankle_angle": 135.49
+      }
+    },
+    {
+      "frame_number": 314,
+      "timestamp": 5.322,
+      "joints": {
+        "shoulder_angle": 103.98,
+        "elbow_angle": 137.1,
+        "hip_angle": 128.61,
+        "knee_angle": 119.33,
+        "ankle_angle": 129.57
+      }
+    },
+    {
+      "frame_number": 315,
+      "timestamp": 5.339,
+      "joints": {
+        "shoulder_angle": 109.27,
+        "elbow_angle": 148.29,
+        "hip_angle": 134.49,
+        "knee_angle": 118.81,
+        "ankle_angle": 103.34
+      }
+    },
+    {
+      "frame_number": 316,
+      "timestamp": 5.356,
+      "joints": {
+        "shoulder_angle": 117.91,
+        "elbow_angle": 160.86,
+        "hip_angle": 137.12,
+        "knee_angle": 122.03,
+        "ankle_angle": 113.22
+      }
+    },
+    {
+      "frame_number": 317,
+      "timestamp": 5.373,
+      "joints": {
+        "shoulder_angle": 112.39,
+        "elbow_angle": 160.78,
+        "hip_angle": 139.37,
+        "knee_angle": 125.32,
+        "ankle_angle": 133.74
+      }
+    },
+    {
+      "frame_number": 318,
+      "timestamp": 5.39,
+      "joints": {
+        "shoulder_angle": 115.26,
+        "elbow_angle": 161.1,
+        "hip_angle": 141.47,
+        "knee_angle": 128.44,
+        "ankle_angle": 134.27
+      }
+    },
+    {
+      "frame_number": 319,
+      "timestamp": 5.407,
+      "joints": {
+        "shoulder_angle": 116.75,
+        "elbow_angle": 173.15,
+        "hip_angle": 145.14,
+        "knee_angle": 132.96,
+        "ankle_angle": 138.79
+      }
+    },
+    {
+      "frame_number": 320,
+      "timestamp": 5.424,
+      "joints": {
+        "shoulder_angle": 100.66,
+        "elbow_angle": 173.9,
+        "hip_angle": 146.09,
+        "knee_angle": 132.73,
+        "ankle_angle": 143.63
+      }
+    },
+    {
+      "frame_number": 321,
+      "timestamp": 5.441,
+      "joints": {
+        "shoulder_angle": 106.78,
+        "elbow_angle": 172.95,
+        "hip_angle": 148.77,
+        "knee_angle": 136.56,
+        "ankle_angle": 143.64
+      }
+    },
+    {
+      "frame_number": 322,
+      "timestamp": 5.458,
+      "joints": {
+        "shoulder_angle": 124.07,
+        "elbow_angle": 179.06,
+        "hip_angle": 149.69,
+        "knee_angle": 139.23,
+        "ankle_angle": 136.67
+      }
+    },
+    {
+      "frame_number": 323,
+      "timestamp": 5.475,
+      "joints": {
+        "shoulder_angle": 135.37,
+        "elbow_angle": 162.6,
+        "hip_angle": 149.97,
+        "knee_angle": 141.9,
+        "ankle_angle": 141.19
+      }
+    },
+    {
+      "frame_number": 324,
+      "timestamp": 5.492,
+      "joints": {
+        "shoulder_angle": 139.12,
+        "elbow_angle": 163.32,
+        "hip_angle": 151.35,
+        "knee_angle": 146.92,
+        "ankle_angle": 155.38
+      }
+    },
+    {
+      "frame_number": 325,
+      "timestamp": 5.508,
+      "joints": {
+        "shoulder_angle": 145.34,
+        "elbow_angle": 173.9,
+        "hip_angle": 152.57,
+        "knee_angle": 149.38,
+        "ankle_angle": 162.63
+      }
+    },
+    {
+      "frame_number": 326,
+      "timestamp": 5.525,
+      "joints": {
+        "shoulder_angle": 159.78,
+        "elbow_angle": 172.32,
+        "hip_angle": 156.86,
+        "knee_angle": 155.65,
+        "ankle_angle": 167.31
+      }
+    },
+    {
+      "frame_number": 327,
+      "timestamp": 5.542,
+      "joints": {
+        "shoulder_angle": 156.98,
+        "elbow_angle": 175.92,
+        "hip_angle": 158.98,
+        "knee_angle": 158.8,
+        "ankle_angle": 165.45
+      }
+    },
+    {
+      "frame_number": 328,
+      "timestamp": 5.559,
+      "joints": {
+        "shoulder_angle": 157.18,
+        "elbow_angle": 171.24,
+        "hip_angle": 160.15,
+        "knee_angle": 160.13,
+        "ankle_angle": 169.81
+      }
+    },
+    {
+      "frame_number": 329,
+      "timestamp": 5.576,
+      "joints": {
+        "shoulder_angle": 163.96,
+        "elbow_angle": 169.64,
+        "hip_angle": 162.48,
+        "knee_angle": 161.62,
+        "ankle_angle": 150.95
+      }
+    },
+    {
+      "frame_number": 330,
+      "timestamp": 5.593,
+      "joints": {
+        "shoulder_angle": 167.96,
+        "elbow_angle": 169.35,
+        "hip_angle": 164.13,
+        "knee_angle": 160.01,
+        "ankle_angle": 140.59
+      }
+    },
+    {
+      "frame_number": 331,
+      "timestamp": 5.61,
+      "joints": {
+        "shoulder_angle": 166.66,
+        "elbow_angle": 168.66,
+        "hip_angle": 164.84,
+        "knee_angle": 156.32,
+        "ankle_angle": 137.13
+      }
+    },
+    {
+      "frame_number": 332,
+      "timestamp": 5.627,
+      "joints": {
+        "shoulder_angle": 161.49,
+        "elbow_angle": 166.98,
+        "hip_angle": 165.28,
+        "knee_angle": 150.88,
+        "ankle_angle": 139.64
+      }
+    },
+    {
+      "frame_number": 333,
+      "timestamp": 5.644,
+      "joints": {
+        "shoulder_angle": 158.19,
+        "elbow_angle": 163.62,
+        "hip_angle": 163.8,
+        "knee_angle": 143.21,
+        "ankle_angle": 129.71
+      }
+    },
+    {
+      "frame_number": 334,
+      "timestamp": 5.661,
+      "joints": {
+        "shoulder_angle": 159.78,
+        "elbow_angle": 160.23,
+        "hip_angle": 163.46,
+        "knee_angle": 139.29,
+        "ankle_angle": 133.46
+      }
+    },
+    {
+      "frame_number": 335,
+      "timestamp": 5.678,
+      "joints": {
+        "shoulder_angle": 163.56,
+        "elbow_angle": 159.95,
+        "hip_angle": 162.25,
+        "knee_angle": 136.73,
+        "ankle_angle": 136.22
+      }
+    },
+    {
+      "frame_number": 336,
+      "timestamp": 5.695,
+      "joints": {
+        "shoulder_angle": 174.47,
+        "elbow_angle": 160.83,
+        "hip_angle": 161.11,
+        "knee_angle": 134.9,
+        "ankle_angle": 133.33
+      }
+    },
+    {
+      "frame_number": 337,
+      "timestamp": 5.712,
+      "joints": {
+        "shoulder_angle": 173.29,
+        "elbow_angle": 161.36,
+        "hip_angle": 159.97,
+        "knee_angle": 136.34,
+        "ankle_angle": 131.0
+      }
+    },
+    {
+      "frame_number": 338,
+      "timestamp": 5.729,
+      "joints": {
+        "shoulder_angle": 173.96,
+        "elbow_angle": 161.16,
+        "hip_angle": 158.95,
+        "knee_angle": 134.96,
+        "ankle_angle": 132.27
+      }
+    },
+    {
+      "frame_number": 339,
+      "timestamp": 5.746,
+      "joints": {
+        "shoulder_angle": 173.32,
+        "elbow_angle": 161.49,
+        "hip_angle": 161.52,
+        "knee_angle": 138.16,
+        "ankle_angle": 134.73
+      }
+    },
+    {
+      "frame_number": 340,
+      "timestamp": 5.763,
+      "joints": {
+        "shoulder_angle": 162.19,
+        "elbow_angle": 162.84,
+        "hip_angle": 159.25,
+        "knee_angle": 141.04,
+        "ankle_angle": 127.51
+      }
+    },
+    {
+      "frame_number": 341,
+      "timestamp": 5.78,
+      "joints": {
+        "shoulder_angle": 158.95,
+        "elbow_angle": 164.25,
+        "hip_angle": 160.86,
+        "knee_angle": 148.22,
+        "ankle_angle": 160.71
+      }
+    },
+    {
+      "frame_number": 342,
+      "timestamp": 5.797,
+      "joints": {
+        "shoulder_angle": 165.81,
+        "elbow_angle": 167.76,
+        "hip_angle": 161.0,
+        "knee_angle": 150.36,
+        "ankle_angle": 157.09
+      }
+    },
+    {
+      "frame_number": 343,
+      "timestamp": 5.814,
+      "joints": {
+        "shoulder_angle": 160.89,
+        "elbow_angle": 171.17,
+        "hip_angle": 163.22,
+        "knee_angle": 154.19,
+        "ankle_angle": 156.5
+      }
+    },
+    {
+      "frame_number": 344,
+      "timestamp": 5.831,
+      "joints": {
+        "shoulder_angle": 157.29,
+        "elbow_angle": 173.12,
+        "hip_angle": 161.93,
+        "knee_angle": 156.59,
+        "ankle_angle": 161.77
+      }
+    },
+    {
+      "frame_number": 345,
+      "timestamp": 5.847,
+      "joints": {
+        "shoulder_angle": 148.21,
+        "elbow_angle": 170.48,
+        "hip_angle": 163.22,
+        "knee_angle": 160.99,
+        "ankle_angle": 156.78
+      }
+    },
+    {
+      "frame_number": 346,
+      "timestamp": 5.864,
+      "joints": {
+        "shoulder_angle": 150.59,
+        "elbow_angle": 179.09,
+        "hip_angle": 164.9,
+        "knee_angle": 164.37,
+        "ankle_angle": 154.98
+      }
+    },
+    {
+      "frame_number": 347,
+      "timestamp": 5.881,
+      "joints": {
+        "shoulder_angle": 155.11,
+        "elbow_angle": 178.95,
+        "hip_angle": 164.16,
+        "knee_angle": 163.95,
+        "ankle_angle": 154.08
+      }
+    },
+    {
+      "frame_number": 348,
+      "timestamp": 5.898,
+      "joints": {
+        "shoulder_angle": 155.03,
+        "elbow_angle": 176.06,
+        "hip_angle": 165.48,
+        "knee_angle": 165.95,
+        "ankle_angle": 159.13
+      }
+    },
+    {
+      "frame_number": 349,
+      "timestamp": 5.915,
+      "joints": {
+        "shoulder_angle": 154.53,
+        "elbow_angle": 174.66,
+        "hip_angle": 167.0,
+        "knee_angle": 166.88,
+        "ankle_angle": 161.85
+      }
+    },
+    {
+      "frame_number": 350,
+      "timestamp": 5.932,
+      "joints": {
+        "shoulder_angle": 152.9,
+        "elbow_angle": 173.76,
+        "hip_angle": 167.58,
+        "knee_angle": 167.72,
+        "ankle_angle": 162.38
+      }
+    },
+    {
+      "frame_number": 351,
+      "timestamp": 5.949,
+      "joints": {
+        "shoulder_angle": 154.59,
+        "elbow_angle": 173.19,
+        "hip_angle": 167.99,
+        "knee_angle": 167.43,
+        "ankle_angle": 160.22
+      }
+    },
+    {
+      "frame_number": 352,
+      "timestamp": 5.966,
+      "joints": {
+        "shoulder_angle": 154.33,
+        "elbow_angle": 174.18,
+        "hip_angle": 167.73,
+        "knee_angle": 165.56,
+        "ankle_angle": 161.48
+      }
+    },
+    {
+      "frame_number": 353,
+      "timestamp": 5.983,
+      "joints": {
+        "shoulder_angle": 153.61,
+        "elbow_angle": 171.02,
+        "hip_angle": 167.88,
+        "knee_angle": 164.32,
+        "ankle_angle": 160.41
+      }
+    },
+    {
+      "frame_number": 354,
+      "timestamp": 6.0,
+      "joints": {
+        "shoulder_angle": 151.57,
+        "elbow_angle": 165.25,
+        "hip_angle": 169.54,
+        "knee_angle": 163.97,
+        "ankle_angle": 159.62
+      }
+    },
+    {
+      "frame_number": 355,
+      "timestamp": 6.017,
+      "joints": {
+        "shoulder_angle": 150.91,
+        "elbow_angle": 165.12,
+        "hip_angle": 170.18,
+        "knee_angle": 163.34,
+        "ankle_angle": 160.47
+      }
+    },
+    {
+      "frame_number": 356,
+      "timestamp": 6.034,
+      "joints": {
+        "shoulder_angle": 149.59,
+        "elbow_angle": 164.25,
+        "hip_angle": 170.94,
+        "knee_angle": 162.1,
+        "ankle_angle": 156.19
+      }
+    },
+    {
+      "frame_number": 357,
+      "timestamp": 6.051,
+      "joints": {
+        "shoulder_angle": 148.64,
+        "elbow_angle": 164.68,
+        "hip_angle": 171.27,
+        "knee_angle": 159.54,
+        "ankle_angle": 152.65
+      }
+    },
+    {
+      "frame_number": 358,
+      "timestamp": 6.068,
+      "joints": {
+        "shoulder_angle": 149.13,
+        "elbow_angle": 162.1,
+        "hip_angle": 170.89,
+        "knee_angle": 156.6,
+        "ankle_angle": 150.29
+      }
+    },
+    {
+      "frame_number": 359,
+      "timestamp": 6.085,
+      "joints": {
+        "shoulder_angle": 145.07,
+        "elbow_angle": 162.57,
+        "hip_angle": 172.17,
+        "knee_angle": 155.57,
+        "ankle_angle": 145.82
+      }
+    },
+    {
+      "frame_number": 360,
+      "timestamp": 6.102,
+      "joints": {
+        "shoulder_angle": 142.82,
+        "elbow_angle": 165.38,
+        "hip_angle": 171.45,
+        "knee_angle": 153.31,
+        "ankle_angle": 146.69
+      }
+    },
+    {
+      "frame_number": 361,
+      "timestamp": 6.119,
+      "joints": {
+        "shoulder_angle": 144.53,
+        "elbow_angle": 164.74,
+        "hip_angle": 171.01,
+        "knee_angle": 150.2,
+        "ankle_angle": 147.58
+      }
+    },
+    {
+      "frame_number": 362,
+      "timestamp": 6.136,
+      "joints": {
+        "shoulder_angle": 143.8,
+        "elbow_angle": 166.3,
+        "hip_angle": 170.7,
+        "knee_angle": 147.44,
+        "ankle_angle": 152.25
+      }
+    },
+    {
+      "frame_number": 363,
+      "timestamp": 6.153,
+      "joints": {
+        "shoulder_angle": 142.18,
+        "elbow_angle": 165.25,
+        "hip_angle": 171.38,
+        "knee_angle": 147.17,
+        "ankle_angle": 153.85
+      }
+    },
+    {
+      "frame_number": 364,
+      "timestamp": 6.169,
+      "joints": {
+        "shoulder_angle": 148.03,
+        "elbow_angle": 148.47,
+        "hip_angle": 169.23,
+        "knee_angle": 146.52,
+        "ankle_angle": 151.92
+      }
+    },
+    {
+      "frame_number": 365,
+      "timestamp": 6.186,
+      "joints": {
+        "shoulder_angle": 151.88,
+        "elbow_angle": 117.73,
+        "hip_angle": 169.19,
+        "knee_angle": 147.62,
+        "ankle_angle": 147.06
+      }
+    },
+    {
+      "frame_number": 366,
+      "timestamp": 6.203,
+      "joints": {
+        "shoulder_angle": 152.35,
+        "elbow_angle": 144.28,
+        "hip_angle": 169.82,
+        "knee_angle": 148.81,
+        "ankle_angle": 148.43
+      }
+    },
+    {
+      "frame_number": 367,
+      "timestamp": 6.22,
+      "joints": {
+        "shoulder_angle": 152.14,
+        "elbow_angle": 134.13,
+        "hip_angle": 170.79,
+        "knee_angle": 151.58,
+        "ankle_angle": 163.89
+      }
+    },
+    {
+      "frame_number": 368,
+      "timestamp": 6.237,
+      "joints": {
+        "shoulder_angle": 151.53,
+        "elbow_angle": 139.79,
+        "hip_angle": 171.35,
+        "knee_angle": 154.07,
+        "ankle_angle": 162.97
+      }
+    },
+    {
+      "frame_number": 369,
+      "timestamp": 6.254,
+      "joints": {
+        "shoulder_angle": 153.46,
+        "elbow_angle": 146.5,
+        "hip_angle": 172.2,
+        "knee_angle": 156.1,
+        "ankle_angle": 162.22
+      }
+    },
+    {
+      "frame_number": 370,
+      "timestamp": 6.271,
+      "joints": {
+        "shoulder_angle": 153.52,
+        "elbow_angle": 136.71,
+        "hip_angle": 173.53,
+        "knee_angle": 160.04,
+        "ankle_angle": 159.81
+      }
+    },
+    {
+      "frame_number": 371,
+      "timestamp": 6.288,
+      "joints": {
+        "shoulder_angle": 154.31,
+        "elbow_angle": 111.01,
+        "hip_angle": 175.99,
+        "knee_angle": 163.34,
+        "ankle_angle": 157.64
+      }
+    },
+    {
+      "frame_number": 372,
+      "timestamp": 6.305,
+      "joints": {
+        "shoulder_angle": 153.13,
+        "elbow_angle": 113.42,
+        "hip_angle": 176.9,
+        "knee_angle": 167.66,
+        "ankle_angle": 155.36
+      }
+    },
+    {
+      "frame_number": 373,
+      "timestamp": 6.322,
+      "joints": {
+        "shoulder_angle": 152.93,
+        "elbow_angle": 118.67,
+        "hip_angle": 178.18,
+        "knee_angle": 169.36,
+        "ankle_angle": 155.38
+      }
+    },
+    {
+      "frame_number": 374,
+      "timestamp": 6.339,
+      "joints": {
+        "shoulder_angle": 154.0,
+        "elbow_angle": 119.74,
+        "hip_angle": 177.75,
+        "knee_angle": 170.71,
+        "ankle_angle": 157.18
+      }
+    },
+    {
+      "frame_number": 375,
+      "timestamp": 6.356,
+      "joints": {
+        "shoulder_angle": 156.09,
+        "elbow_angle": 119.43,
+        "hip_angle": 177.12,
+        "knee_angle": 170.55,
+        "ankle_angle": 157.08
+      }
+    },
+    {
+      "frame_number": 376,
+      "timestamp": 6.373,
+      "joints": {
+        "shoulder_angle": 155.45,
+        "elbow_angle": 120.22,
+        "hip_angle": 175.84,
+        "knee_angle": 169.42,
+        "ankle_angle": 160.5
+      }
+    },
+    {
+      "frame_number": 377,
+      "timestamp": 6.39,
+      "joints": {
+        "shoulder_angle": 151.17,
+        "elbow_angle": 129.6,
+        "hip_angle": 175.23,
+        "knee_angle": 168.72,
+        "ankle_angle": 159.71
+      }
+    },
+    {
+      "frame_number": 378,
+      "timestamp": 6.407,
+      "joints": {
+        "shoulder_angle": 156.92,
+        "elbow_angle": 131.03,
+        "hip_angle": 174.22,
+        "knee_angle": 168.4,
+        "ankle_angle": 159.95
+      }
+    },
+    {
+      "frame_number": 379,
+      "timestamp": 6.424,
+      "joints": {
+        "shoulder_angle": 159.37,
+        "elbow_angle": 133.22,
+        "hip_angle": 174.89,
+        "knee_angle": 168.31,
+        "ankle_angle": 160.04
+      }
+    },
+    {
+      "frame_number": 380,
+      "timestamp": 6.441,
+      "joints": {
+        "shoulder_angle": 165.21,
+        "elbow_angle": 133.25,
+        "hip_angle": 174.15,
+        "knee_angle": 166.9,
+        "ankle_angle": 159.42
+      }
+    },
+    {
+      "frame_number": 381,
+      "timestamp": 6.458,
+      "joints": {
+        "shoulder_angle": 163.15,
+        "elbow_angle": 142.89,
+        "hip_angle": 174.19,
+        "knee_angle": 164.81,
+        "ankle_angle": 159.1
+      }
+    },
+    {
+      "frame_number": 382,
+      "timestamp": 6.475,
+      "joints": {
+        "shoulder_angle": 166.02,
+        "elbow_angle": 136.68,
+        "hip_angle": 175.77,
+        "knee_angle": 167.04,
+        "ankle_angle": 155.44
+      }
+    },
+    {
+      "frame_number": 383,
+      "timestamp": 6.492,
+      "joints": {
+        "shoulder_angle": 173.22,
+        "elbow_angle": 108.52,
+        "hip_angle": 173.15,
+        "knee_angle": 160.87,
+        "ankle_angle": 158.82
+      }
+    },
+    {
+      "frame_number": 384,
+      "timestamp": 6.508,
+      "joints": {
+        "shoulder_angle": 176.02,
+        "elbow_angle": 149.22,
+        "hip_angle": 174.87,
+        "knee_angle": 159.16,
+        "ankle_angle": 160.81
+      }
+    },
+    {
+      "frame_number": 385,
+      "timestamp": 6.525,
+      "joints": {
+        "shoulder_angle": 177.2,
+        "elbow_angle": 140.75,
+        "hip_angle": 175.32,
+        "knee_angle": 161.09,
+        "ankle_angle": 164.8
+      }
+    },
+    {
+      "frame_number": 386,
+      "timestamp": 6.542,
+      "joints": {
+        "shoulder_angle": 176.71,
+        "elbow_angle": 137.61,
+        "hip_angle": 174.41,
+        "knee_angle": 163.03,
+        "ankle_angle": 159.79
+      }
+    },
+    {
+      "frame_number": 387,
+      "timestamp": 6.559,
+      "joints": {
+        "shoulder_angle": 174.59,
+        "elbow_angle": 146.32,
+        "hip_angle": 172.78,
+        "knee_angle": 159.99,
+        "ankle_angle": 146.32
+      }
+    },
+    {
+      "frame_number": 388,
+      "timestamp": 6.576,
+      "joints": {
+        "shoulder_angle": 171.83,
+        "elbow_angle": 150.64,
+        "hip_angle": 173.88,
+        "knee_angle": 157.76,
+        "ankle_angle": 144.65
+      }
+    },
+    {
+      "frame_number": 389,
+      "timestamp": 6.593,
+      "joints": {
+        "shoulder_angle": 168.34,
+        "elbow_angle": 152.16,
+        "hip_angle": 174.73,
+        "knee_angle": 158.27,
+        "ankle_angle": 145.71
+      }
+    },
+    {
+      "frame_number": 390,
+      "timestamp": 6.61,
+      "joints": {
+        "shoulder_angle": 167.91,
+        "elbow_angle": 160.12,
+        "hip_angle": 175.14,
+        "knee_angle": 157.81,
+        "ankle_angle": 150.3
+      }
+    },
+    {
+      "frame_number": 391,
+      "timestamp": 6.627,
+      "joints": {
+        "shoulder_angle": 168.8,
+        "elbow_angle": 162.44,
+        "hip_angle": 174.46,
+        "knee_angle": 158.76,
+        "ankle_angle": 156.24
+      }
+    },
+    {
+      "frame_number": 392,
+      "timestamp": 6.644,
+      "joints": {
+        "shoulder_angle": 168.38,
+        "elbow_angle": 164.92,
+        "hip_angle": 173.54,
+        "knee_angle": 161.19,
+        "ankle_angle": 155.46
+      }
+    },
+    {
+      "frame_number": 393,
+      "timestamp": 6.661,
+      "joints": {
+        "shoulder_angle": 168.23,
+        "elbow_angle": 164.83,
+        "hip_angle": 172.49,
+        "knee_angle": 162.14,
+        "ankle_angle": 145.98
+      }
+    }
+  ]
+}
